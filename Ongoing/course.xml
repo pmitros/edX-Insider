@@ -102,6 +102,23 @@
       </vertical>
     </sequential>
   </chapter>
+  <chapter display_name="Pedagogical Foundations: Mastery Learning" hide_from_toc="true" url_name="Mastery_Learning">
+    <sequential display_name="Theoretical Foundations" url_name="Theoretical_Foundations">
+      <html display_name="Intro" url_name="Intro">
+	In the previous section, we mentioned the MITx platform originally didn't support multiple choice questions (although, as we found, they do have good uses). In this section, we'll explain the theoretical basis of why. We'll start off with a few now well-established theories about learning and motivation from a few different disciplines. These will, perhaps, seem like a disconnected drink from a firehouse. Bear with us. This does come together.... 
+      </html>
+      <html display_name="Gamification" url_name="Gamification">
+      </html>
+      <html display_name="Mastery Learning" url_name="Mastery_Learning">
+      </html>
+      <html display_name="Self-Regulated Learning" url_name="Self_regulated_learning">
+      </html>
+      <html display_name="Immediate Feedback" url_name="Immediate_feedback">
+      </html>
+      <html display_name="Metacognition" url_name="Metacognition">
+      </html>
+    </sequential>
+  </chapter>
   <chapter display_name="Profile" hide_from_toc="true" url_name="Profile">
     <profile chrome="tabs" default_tab="profile" display_name="Profile" url_name="Profile"/>
   </chapter>
