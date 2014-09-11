@@ -4,9 +4,11 @@
     <sequential display_name="Overview (go here first)" start="2012-01-01T00:00:00Z" url_name="Overview_go_here_first">
       <vertical display_name="Week's overview" url_name="Week_s_overview">
         <html display_name="Week overview" filename="Week_overview" url_name="Week_overview"/>
+	<done display_name="Read week overview" url_name="Read_week_overview" align="right"/>
       </vertical>
       <vertical display_name="ICAP intro" url_name="ICAP_intro">
-        <html filename="ICAP_Intro_HTML" url_name="ICAP_Intro_HTML"/>
+        <html filename="ICAP_Intro_HTML" url_name="ICAP_Intro_HTML" display_name="ICAP Overview"/>
+	<done display_name="Read ICAP overview" url_name="Read_ICAP_overview" align="right"/>
       </vertical>
     </sequential>
     <sequential display_name="Tutorial-style learning sequences" start="2012-01-01T00:00:00Z" url_name="Tutorial_style_learning_sequences">
@@ -22,21 +24,26 @@
       </vertical>
       <vertical display_name="Active learning explanation" url_name="Active_learning_explanation">
         <html display_name="Active learning explanation" filename="Active_learning_explanation_0" url_name="Active_learning_explanation_0"/>
+	<done display_name="Read active learning explanation" url_name="Read active learning explanation" align="right"/>
       </vertical>
       <vertical display_name="Applications to STEM" url_name="Applications_to_STEM">
         <html display_name="Applications to STEM" filename="Applications_to_STEM_0" url_name="Applications_to_STEM_0"/>
+	<done display_name="Read applications to STEM" url_name="Read_applications_to_STEM" align="right"/>
       </vertical>
       <vertical display_name="Interactive" url_name="Interactive">
         <html display_name="Interactive" filename="Interactive_0" url_name="Interactive_0"/>
         <html filename="hsph_discover" url_name="hsph_discover"/>
+	<done display_name="Use interactive" url_name="Use_interactive" align="right"/>
       </vertical>
       <vertical display_name="Conclusion" url_name="Analogues">
         <html display_name="Analogs" filename="Analogs_0" url_name="Analogs_0"/>
+	<done display_name="Read conclusion" url_name="Read_conclusion" align="right"/>
       </vertical>
     </sequential>
     <sequential display_name="Tutorial-style learning sequence: Examplar" start="2012-01-01T00:00:00Z" url_name="Tutorial_style_learning_sequence_Examplar">
       <vertical display_name="Introduction" url_name="Introduction_0">
         <html display_name="Intro" filename="Intro_1" url_name="Intro_1"/>
+	<done display_name="Read intro part 2" url_name="Read_intro_part_2" align="right"/>
       </vertical>
       <vertical display_name="Overview of theorem and proof strategy" url_name="Overview_of_theorem_and_proof_strategy">
         <video display_name="Overview of theorem and proof strategy" html5_sources="[]" sub="LlhGxq7diSM" url_name="Overview_of_theorem_and_proof_strategy_0" youtube="1.00:LlhGxq7diSM" youtube_id_0_75="" youtube_id_1_0="LlhGxq7diSM" youtube_id_1_25="" youtube_id_1_5=""/>
@@ -77,6 +84,7 @@
       </vertical>
       <vertical display_name="Some footnotes" url_name="Some_footnotes">
         <html display_name="Usage" filename="Usage" url_name="Usage"/>
+	<done display_name="Read endnotes/finish Pythagoras" url_name="Finish Pythagoras" align="right"/>
       </vertical>
     </sequential>
     <sequential display_name="Constructive learning: Theory" start="2012-01-01T00:00:00Z" url_name="Constructive_learning_Theory">
