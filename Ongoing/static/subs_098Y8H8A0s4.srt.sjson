@@ -1,0 +1,29 @@
+{
+  "start": [
+    3629, 
+    5700, 
+    10650, 
+    13790, 
+    18039, 
+    32020, 
+    36399
+  ], 
+  "end": [
+    5700, 
+    10650, 
+    13790, 
+    18039, 
+    25039, 
+    36399, 
+    38629
+  ], 
+  "text": [
+    "We have one these squares, which gives", 
+    "c^2. We have four of these triangles, which gives", 
+    " ", 
+    "4*(AB/2)", 
+    " ", 
+    "This gives us this equation. Try to simplify this equation. Multiply out the right side,", 
+    "and then cancel whatever terms you can"
+  ]
+}

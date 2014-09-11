@@ -1,0 +1,41 @@
+{
+  "start": [
+    979, 
+    5130, 
+    10440, 
+    14980, 
+    18560, 
+    22279, 
+    25699, 
+    30420, 
+    33800, 
+    41670, 
+    45470
+  ], 
+  "end": [
+    5130, 
+    10440, 
+    14980, 
+    18560, 
+    22279, 
+    25699, 
+    30420, 
+    33800, 
+    40800, 
+    45470, 
+    47410
+  ], 
+  "text": [
+    "So the length of this side", 
+    "Is just a+b, which means that the area of this box", 
+    "is", 
+    "(a+b)^2", 
+    "now we&#39;re trying to figure out the area of the box in a different way", 
+    "this time we&#39;ll look at it as", 
+    "the area of the square in the middle plus", 
+    "the areas of the triangles around it", 
+    "so", 
+    "as a first step was the area of this square", 
+    "and what is the area for one of these triangles"
+  ]
+}

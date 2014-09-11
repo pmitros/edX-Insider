@@ -1,0 +1,35 @@
+{
+  "start": [
+    3709, 
+    5700, 
+    12460, 
+    16070, 
+    19380, 
+    22449, 
+    27240, 
+    32890, 
+    38809
+  ], 
+  "end": [
+    5700, 
+    12460, 
+    16070, 
+    19380, 
+    22449, 
+    27240, 
+    32890, 
+    38809, 
+    40120
+  ], 
+  "text": [
+    "The area of this square.", 
+    "is just C^2. The area of one of these triangles, if you remember", 
+    "is", 
+    "a*b/2. If you don&#39;t remember that", 
+    "put two of these together into a rectangle", 
+    "where this side is of length a, and this side is of length b, so this rectangle is of area AB.", 
+    "and if we have just one of these triangles, it&#39;s AB/2", 
+    "So using these two expressions, what is the area of the overall", 
+    "big square?"
+  ]
+}

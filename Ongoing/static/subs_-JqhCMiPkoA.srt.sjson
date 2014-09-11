@@ -1,0 +1,50 @@
+{
+  "start": [
+    2649, 
+    3870, 
+    7440, 
+    12099, 
+    18529, 
+    21910, 
+    26240, 
+    30390, 
+    35260, 
+    39700, 
+    42800, 
+    46100, 
+    50030, 
+    54360
+  ], 
+  "end": [
+    3870, 
+    7440, 
+    12099, 
+    18529, 
+    21910, 
+    26240, 
+    30390, 
+    35260, 
+    39700, 
+    42800, 
+    46100, 
+    50030, 
+    54360, 
+    57329
+  ], 
+  "text": [
+    "so this segment", 
+    "is the same as this segment so this is", 
+    "a. This segment is the same as the segment", 
+    "so it&#39;s B. This segment is the same as this segment, so it&#39;s again", 
+    "a. This segment", 
+    "is b and so on and so forth.", 
+    "and then these inner segments", 
+    "are the same as this segment, so this is C and C", 
+    " ", 
+    "We&#39;ll try to calculate the size of the overall box", 
+    "this whole area", 
+    "as a first step figure out the length", 
+    "of one of these sides and then", 
+    "use that to figure out this area of the box"
+  ]
+}

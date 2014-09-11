@@ -1,0 +1,458 @@
+{
+  "Hospital_B.js": {
+    "contentType": "text/javascript", 
+    "content_son": {
+      "category": "asset", 
+      "course": "edX_Insider", 
+      "name": "Hospital_B.js", 
+      "org": "edX", 
+      "revision": null, 
+      "tag": "c4x"
+    }, 
+    "displayname": "Hospital_B.js", 
+    "filename": "/c4x/edX/edX_Insider/asset/Hospital_B.js", 
+    "import_path": "Hospital_B.js", 
+    "locked": false, 
+    "thumbnail_location": null
+  }, 
+  "PBP10MAPS_PECR09.pdf": {
+    "contentType": "application/pdf", 
+    "content_son": {
+      "category": "asset", 
+      "course": "edX_Insider", 
+      "name": "PBP10MAPS_PECR09.pdf", 
+      "org": "edX", 
+      "revision": null, 
+      "tag": "c4x"
+    }, 
+    "displayname": "PBP10MAPS_PECR09.pdf", 
+    "filename": "/c4x/edX/edX_Insider/asset/PBP10MAPS_PECR09.pdf", 
+    "import_path": "PBP10MAPS_PECR09.pdf", 
+    "locked": false, 
+    "thumbnail_location": null
+  }, 
+  "RPB2010_ImprovedPerformance_Aug24.pdf": {
+    "contentType": "application/pdf", 
+    "content_son": {
+      "category": "asset", 
+      "course": "edX_Insider", 
+      "name": "RPB2010_ImprovedPerformance_Aug24.pdf", 
+      "org": "edX", 
+      "revision": null, 
+      "tag": "c4x"
+    }, 
+    "displayname": "RPB2010_ImprovedPerformance_Aug24.pdf", 
+    "filename": "/c4x/edX/edX_Insider/asset/RPB2010_ImprovedPerformance_Aug24.pdf", 
+    "import_path": "RPB2010_ImprovedPerformance_Aug24.pdf", 
+    "locked": false, 
+    "thumbnail_location": null
+  }, 
+  "anant_code.png": {
+    "contentType": "image/png", 
+    "content_son": {
+      "category": "asset", 
+      "course": "edX_Insider", 
+      "name": "anant_code.png", 
+      "org": "edX", 
+      "revision": null, 
+      "tag": "c4x"
+    }, 
+    "displayname": "anant_code.png", 
+    "filename": "/c4x/edX/edX_Insider/asset/anant_code.png", 
+    "import_path": null, 
+    "locked": false, 
+    "thumbnail_location": [
+      "c4x", 
+      "edX", 
+      "edX_Insider", 
+      "thumbnail", 
+      "anant_code.jpg", 
+      null
+    ]
+  }, 
+  "cb-physics-c-sample-curriculum.pdf": {
+    "contentType": "application/pdf", 
+    "content_son": {
+      "category": "asset", 
+      "course": "edX_Insider", 
+      "name": "cb-physics-c-sample-curriculum.pdf", 
+      "org": "edX", 
+      "revision": null, 
+      "tag": "c4x"
+    }, 
+    "displayname": "cb-physics-c-sample-curriculum.pdf", 
+    "filename": "/c4x/edX/edX_Insider/asset/cb-physics-c-sample-curriculum.pdf", 
+    "import_path": "cb-physics-c-sample-curriculum.pdf", 
+    "locked": false, 
+    "thumbnail_location": null
+  }, 
+  "copystand_example.jpg": {
+    "contentType": "image/jpeg", 
+    "content_son": {
+      "category": "asset", 
+      "course": "edX_Insider", 
+      "name": "copystand_example.jpg", 
+      "org": "edX", 
+      "revision": null, 
+      "tag": "c4x"
+    }, 
+    "displayname": "copystand_example.jpg", 
+    "filename": "/c4x/edX/edX_Insider/asset/copystand_example.jpg", 
+    "import_path": "copystand_example.jpg", 
+    "locked": false, 
+    "thumbnail_location": [
+      "c4x", 
+      "edX", 
+      "edX_Insider", 
+      "thumbnail", 
+      "copystand_example.jpg", 
+      null
+    ]
+  }, 
+  "dave200.jpg": {
+    "contentType": "image/jpeg", 
+    "content_son": {
+      "category": "asset", 
+      "course": "edX_Insider", 
+      "name": "dave200.jpg", 
+      "org": "edX", 
+      "revision": null, 
+      "tag": "c4x"
+    }, 
+    "displayname": "dave200.jpg", 
+    "filename": "/c4x/edX/edX_Insider/asset/dave200.jpg", 
+    "import_path": "dave200.jpg", 
+    "locked": false, 
+    "thumbnail_location": [
+      "c4x", 
+      "edX", 
+      "edX_Insider", 
+      "thumbnail", 
+      "dave200.jpg", 
+      null
+    ]
+  }, 
+  "pmitros.jpg": {
+    "contentType": "image/jpeg", 
+    "content_son": {
+      "category": "asset", 
+      "course": "edX_Insider", 
+      "name": "pmitros.jpg", 
+      "org": "edX", 
+      "revision": null, 
+      "tag": "c4x"
+    }, 
+    "displayname": "pmitros.jpg", 
+    "filename": "/c4x/edX/edX_Insider/asset/pmitros.jpg", 
+    "import_path": "pmitros.jpg", 
+    "locked": false, 
+    "thumbnail_location": [
+      "c4x", 
+      "edX", 
+      "edX_Insider", 
+      "thumbnail", 
+      "pmitros.jpg", 
+      null
+    ]
+  }, 
+  "pythagoras_dnd.png": {
+    "contentType": "image/png", 
+    "content_son": {
+      "category": "asset", 
+      "course": "edX_Insider", 
+      "name": "pythagoras_dnd.png", 
+      "org": "edX", 
+      "revision": null, 
+      "tag": "c4x"
+    }, 
+    "displayname": "pythagoras_dnd.png", 
+    "filename": "/c4x/edX/edX_Insider/asset/pythagoras_dnd.png", 
+    "import_path": "pythagoras_dnd.png", 
+    "locked": false, 
+    "thumbnail_location": [
+      "c4x", 
+      "edX", 
+      "edX_Insider", 
+      "thumbnail", 
+      "pythagoras_dnd.jpg", 
+      null
+    ]
+  }, 
+  "pythagoras_size_of_square.png": {
+    "contentType": "image/png", 
+    "content_son": {
+      "category": "asset", 
+      "course": "edX_Insider", 
+      "name": "pythagoras_size_of_square.png", 
+      "org": "edX", 
+      "revision": null, 
+      "tag": "c4x"
+    }, 
+    "displayname": "pythagoras_size_of_square.png", 
+    "filename": "/c4x/edX/edX_Insider/asset/pythagoras_size_of_square.png", 
+    "import_path": "pythagoras_size_of_square.png", 
+    "locked": false, 
+    "thumbnail_location": [
+      "c4x", 
+      "edX", 
+      "edX_Insider", 
+      "thumbnail", 
+      "pythagoras_size_of_square.jpg", 
+      null
+    ]
+  }, 
+  "pythagoras_size_of_square_2.png": {
+    "contentType": "image/png", 
+    "content_son": {
+      "category": "asset", 
+      "course": "edX_Insider", 
+      "name": "pythagoras_size_of_square_2.png", 
+      "org": "edX", 
+      "revision": null, 
+      "tag": "c4x"
+    }, 
+    "displayname": "pythagoras_size_of_square_2.png", 
+    "filename": "/c4x/edX/edX_Insider/asset/pythagoras_size_of_square_2.png", 
+    "import_path": "pythagoras_size_of_square_2.png", 
+    "locked": false, 
+    "thumbnail_location": [
+      "c4x", 
+      "edX", 
+      "edX_Insider", 
+      "thumbnail", 
+      "pythagoras_size_of_square_2.jpg", 
+      null
+    ]
+  }, 
+  "steve_suit.jpg": {
+    "contentType": "image/jpeg", 
+    "content_son": {
+      "category": "asset", 
+      "course": "edX_Insider", 
+      "name": "steve_suit.jpg", 
+      "org": "edX", 
+      "revision": null, 
+      "tag": "c4x"
+    }, 
+    "displayname": "steve_suit.jpg", 
+    "filename": "/c4x/edX/edX_Insider/asset/steve_suit.jpg", 
+    "import_path": null, 
+    "locked": false, 
+    "thumbnail_location": [
+      "c4x", 
+      "edX", 
+      "edX_Insider", 
+      "thumbnail", 
+      "steve_suit.jpg", 
+      null
+    ]
+  }, 
+  "subs_-JqhCMiPkoA.srt.sjson": {
+    "contentType": "application/json", 
+    "content_son": {
+      "category": "asset", 
+      "course": "edX_Insider", 
+      "name": "subs_-JqhCMiPkoA.srt.sjson", 
+      "org": "edX", 
+      "revision": null, 
+      "tag": "c4x"
+    }, 
+    "displayname": "subs_-JqhCMiPkoA.srt.sjson", 
+    "filename": "/c4x/edX/edX_Insider/asset/subs_-JqhCMiPkoA.srt.sjson", 
+    "import_path": "subs_-JqhCMiPkoA.srt.sjson", 
+    "locked": false, 
+    "thumbnail_location": null
+  }, 
+  "subs_098Y8H8A0s4.srt.sjson": {
+    "contentType": "application/json", 
+    "content_son": {
+      "category": "asset", 
+      "course": "edX_Insider", 
+      "name": "subs_098Y8H8A0s4.srt.sjson", 
+      "org": "edX", 
+      "revision": null, 
+      "tag": "c4x"
+    }, 
+    "displayname": "subs_098Y8H8A0s4.srt.sjson", 
+    "filename": "/c4x/edX/edX_Insider/asset/subs_098Y8H8A0s4.srt.sjson", 
+    "import_path": "subs_098Y8H8A0s4.srt.sjson", 
+    "locked": false, 
+    "thumbnail_location": null
+  }, 
+  "subs_A0_yrUnTrMI.srt.sjson": {
+    "contentType": "application/json", 
+    "content_son": {
+      "category": "asset", 
+      "course": "edX_Insider", 
+      "name": "subs_A0_yrUnTrMI.srt.sjson", 
+      "org": "edX", 
+      "revision": null, 
+      "tag": "c4x"
+    }, 
+    "displayname": "subs_A0_yrUnTrMI.srt.sjson", 
+    "filename": "/c4x/edX/edX_Insider/asset/subs_A0_yrUnTrMI.srt.sjson", 
+    "import_path": "subs_A0_yrUnTrMI.srt.sjson", 
+    "locked": false, 
+    "thumbnail_location": null
+  }, 
+  "subs_CdO-fEWWTeY.srt.sjson": {
+    "contentType": "application/json", 
+    "content_son": {
+      "category": "asset", 
+      "course": "edX_Insider", 
+      "name": "subs_CdO-fEWWTeY.srt.sjson", 
+      "org": "edX", 
+      "revision": null, 
+      "tag": "c4x"
+    }, 
+    "displayname": "subs_CdO-fEWWTeY.srt.sjson", 
+    "filename": "/c4x/edX/edX_Insider/asset/subs_CdO-fEWWTeY.srt.sjson", 
+    "import_path": "subs_CdO-fEWWTeY.srt.sjson", 
+    "locked": false, 
+    "thumbnail_location": null
+  }, 
+  "subs_LlhGxq7diSM.srt.sjson": {
+    "contentType": "application/json", 
+    "content_son": {
+      "category": "asset", 
+      "course": "edX_Insider", 
+      "name": "subs_LlhGxq7diSM.srt.sjson", 
+      "org": "edX", 
+      "revision": null, 
+      "tag": "c4x"
+    }, 
+    "displayname": "subs_LlhGxq7diSM.srt.sjson", 
+    "filename": "/c4x/edX/edX_Insider/asset/subs_LlhGxq7diSM.srt.sjson", 
+    "import_path": "subs_LlhGxq7diSM.srt.sjson", 
+    "locked": false, 
+    "thumbnail_location": null
+  }, 
+  "subs_MweN0Gmd0jY.srt.sjson": {
+    "contentType": "application/json", 
+    "content_son": {
+      "category": "asset", 
+      "course": "edX_Insider", 
+      "name": "subs_MweN0Gmd0jY.srt.sjson", 
+      "org": "edX", 
+      "revision": null, 
+      "tag": "c4x"
+    }, 
+    "displayname": "subs_MweN0Gmd0jY.srt.sjson", 
+    "filename": "/c4x/edX/edX_Insider/asset/subs_MweN0Gmd0jY.srt.sjson", 
+    "import_path": "subs_MweN0Gmd0jY.srt.sjson", 
+    "locked": false, 
+    "thumbnail_location": null
+  }, 
+  "subs_bOFAKQpXC0M.srt.sjson": {
+    "contentType": "application/json", 
+    "content_son": {
+      "category": "asset", 
+      "course": "edX_Insider", 
+      "name": "subs_bOFAKQpXC0M.srt.sjson", 
+      "org": "edX", 
+      "revision": null, 
+      "tag": "c4x"
+    }, 
+    "displayname": "subs_bOFAKQpXC0M.srt.sjson", 
+    "filename": "/c4x/edX/edX_Insider/asset/subs_bOFAKQpXC0M.srt.sjson", 
+    "import_path": "subs_bOFAKQpXC0M.srt.sjson", 
+    "locked": false, 
+    "thumbnail_location": null
+  }, 
+  "subs_yxcszTx40zM.srt.sjson": {
+    "contentType": "application/json", 
+    "content_son": {
+      "category": "asset", 
+      "course": "edX_Insider", 
+      "name": "subs_yxcszTx40zM.srt.sjson", 
+      "org": "edX", 
+      "revision": null, 
+      "tag": "c4x"
+    }, 
+    "displayname": "subs_yxcszTx40zM.srt.sjson", 
+    "filename": "/c4x/edX/edX_Insider/asset/subs_yxcszTx40zM.srt.sjson", 
+    "import_path": "subs_yxcszTx40zM.srt.sjson", 
+    "locked": false, 
+    "thumbnail_location": null
+  }, 
+  "urlname_mapping.json": {
+    "contentType": "application/json", 
+    "content_son": {
+      "category": "asset", 
+      "course": "edX_Insider", 
+      "name": "urlname_mapping.json", 
+      "org": "edX", 
+      "revision": null, 
+      "tag": "c4x"
+    }, 
+    "displayname": "urlname_mapping.json", 
+    "filename": "/c4x/edX/edX_Insider/asset/urlname_mapping.json", 
+    "import_path": "urlname_mapping.json", 
+    "locked": false, 
+    "thumbnail_location": null
+  }, 
+  "urlname_mapping_0.json": {
+    "contentType": "application/json", 
+    "content_son": {
+      "category": "asset", 
+      "course": "edX_Insider", 
+      "name": "urlname_mapping_0.json", 
+      "org": "edX", 
+      "revision": null, 
+      "tag": "c4x"
+    }, 
+    "displayname": "urlname_mapping_0.json", 
+    "filename": "/c4x/edX/edX_Insider/asset/urlname_mapping_0.json", 
+    "import_path": "urlname_mapping_0.json", 
+    "locked": false, 
+    "thumbnail_location": null
+  }, 
+  "urlname_mapping_1.json": {
+    "contentType": "application/json", 
+    "content_son": {
+      "category": "asset", 
+      "course": "edX_Insider", 
+      "name": "urlname_mapping_1.json", 
+      "org": "edX", 
+      "revision": null, 
+      "tag": "c4x"
+    }, 
+    "displayname": "urlname_mapping_1.json", 
+    "filename": "/c4x/edX/edX_Insider/asset/urlname_mapping_1.json", 
+    "import_path": "urlname_mapping_1.json", 
+    "locked": false, 
+    "thumbnail_location": null
+  }, 
+  "urlname_mapping_2.json": {
+    "contentType": "application/json", 
+    "content_son": {
+      "category": "asset", 
+      "course": "edX_Insider", 
+      "name": "urlname_mapping_2.json", 
+      "org": "edX", 
+      "revision": null, 
+      "tag": "c4x"
+    }, 
+    "displayname": "urlname_mapping_2.json", 
+    "filename": "/c4x/edX/edX_Insider/asset/urlname_mapping_2.json", 
+    "import_path": "urlname_mapping_2.json", 
+    "locked": false, 
+    "thumbnail_location": null
+  }, 
+  "urlname_mapping_3.json": {
+    "contentType": "application/json", 
+    "content_son": {
+      "category": "asset", 
+      "course": "edX_Insider", 
+      "name": "urlname_mapping_3.json", 
+      "org": "edX", 
+      "revision": null, 
+      "tag": "c4x"
+    }, 
+    "displayname": "urlname_mapping_3.json", 
+    "filename": "/c4x/edX/edX_Insider/asset/urlname_mapping_3.json", 
+    "import_path": "urlname_mapping_3.json", 
+    "locked": false, 
+    "thumbnail_location": null
+  }
+}

@@ -1,0 +1,42 @@
+<problem display_name="Label similar triangles" markdown="null" url_name="Label_similar_triangles_0">
+  <text>
+    <p>Please label the sides of the squares with their lengths.</p>
+  </text>
+  <customresponse>
+    <drag_and_drop_input img="/static/pythagoras_dnd.png" label_bg_color="rgb(222, 139, 238)" no_labels="true" one_per_target="true" target_outline="true">
+      <draggable can_reuse="true" id="1" label="a" />
+      <draggable can_reuse="true" id="2" label="b" />
+      <draggable can_reuse="true" id="3" label="c" />
+      <target h="25" id="a1" w="25" x="290" y="96" />
+      <target h="25" id="a2" w="25" x="520" y="25" />
+      <target h="25" id="a3" w="25" x="600" y="245" />
+      <target h="25" id="a4" w="25" x="350" y="340" />
+      <target h="25" id="b1" w="25" x="360" y="25" />
+      <target h="25" id="b2" w="25" x="290" y="230" />
+      <target h="25" id="b3" w="25" x="490" y="340" />
+      <target h="25" id="b4" w="25" x="600" y="94" />
+      <target h="25" id="c1" w="25" x="380" y="220" />
+      <target h="25" id="c2" w="25" x="400" y="130" />
+      <target h="25" id="c3" w="25" x="500" y="130" />
+      <target h="25" id="c4" w="25" x="485" y="245" />
+    </drag_and_drop_input>
+    <answer type="loncapa/python">
+s = submission[0]
+a = [{"1":"a1"},{"1":"a2"},{"1":"a3"},{"1":"a4"},{"2":"b1"},{"2":"b2"},{"2":"b3"},{"2":"b4"},{"3":"c1"},{"3":"c2"},{"3":"c3"},{"3":"c4"}]
+
+def cleanup(x):
+   x = sorted([[(str(j),str(i[j])) for j in i] for i in x])
+   return sorted(x)
+
+s=cleanup(eval(str(s))) # DANGER!
+a=cleanup(a)
+
+if str(s) == str(a): 
+    correct = ['correct']
+    #overall_message = str(s) + "|" + str(a)
+else:
+    correct = ['incorrect']
+    #overall_message = str(s) + "|" + str(a)
+        </answer>
+  </customresponse>
+</problem>
