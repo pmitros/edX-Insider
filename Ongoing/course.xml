@@ -84,7 +84,7 @@
       </vertical>
       <vertical display_name="Some footnotes" url_name="Some_footnotes">
         <html display_name="Usage" filename="Usage" url_name="Usage"/>
-	<done display_name="Read endnotes/finish Pythagoras" url_name="Finish Pythagoras" align="right"/>
+	<done display_name="Read endnotes/finish Pythagoras" url_name="Finish_Pythagoras" align="right"/>
       </vertical>
     </sequential>
     <sequential display_name="Constructive learning: Theory" start="2012-01-01T00:00:00Z" url_name="Constructive_learning_Theory">
