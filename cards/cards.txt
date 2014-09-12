@@ -1,0 +1,104 @@
+ 1. Mindset interventions
+
+There is a substantial body of work that suggests students learn much
+more effectively with a good mindset towards learning. Perhaps the
+best known of these results is the work on the growth mindset by Carol
+Dweck. Dweck has strong evidence that if students believe that
+intelligence is fixed, they will learn less than if they believe
+intelligence is malleable. She has a set of interventions -- ranging
+from explanations of the growth mindset to more subtle techniques such
+as complementing students for effort rather than for success -- which
+help lead to a growth mindset. 
+
+http://en.wikipedia.org/wiki/Carol_Dweck
+
+ 2. Forgetting curves (long)
+
+There is (quite unsurprisingly) evidence that we retain knowledge much
+more effectively if we use it or repeat it. A study by David Pritchard
+at MIT compared student exam results in freshman physics between
+students who continued to use physics in future coursework, and ones
+who did not. Unsuprisingly, the difference was tremendous. 
+
+This is closely related to the concept of spaced repetition, but with
+different timescales. Spaced repetition (which another group is
+looking at) is useful for e.g. schedules for flash cards. Here, we're
+concerned about complex concepts, and practice over semesters and
+years.
+
+http://en.wikipedia.org/wiki/Forgetting_curve
+
+ 3. Spaced repetition
+
+Especially in fields like language learning, we can learn things much
+more quickly with a technique called spaced repetition. In spaced
+repetition, a fact is repeated at the time you're about to forget
+it. For example, there might be a schedule where something is
+explained, repeated 5 seconds later, 15 seconds, 1 minute, 5 minutes,
+30 minutes, after 1 day, after 2 days, after one week, and after one
+month. Spaced repetition can lead to dramatically fast learning of simple,
+factual knowledge.
+
+http://en.wikipedia.org/wiki/Spaced_repetition
+
+ 4. Mastery learning
+
+Mastery learning is, quite simply, the concept that you don't move on
+until you've mastered a concept, so you don't learn information
+without prerequisite knowledge. In other words, I won't teach you
+multiplication until you've learned addition. A famous result by Bloom
+showed that a typical tutored students will outperform 95% of students
+in a traditional classroom. About half of that benefit comes from a
+tutor stopping on concepts until the student masters them.
+
+Mastery learning is closely tied to:
+* Self-regulated learning. Many forms of one include the other. 
+* Gamification. In mastery learning, students are generally rewarded
+  for progress, rather than seriously punished for errors (e.g. you
+  try again, rather than permanently losing a letter grade). This
+  matches what we know about motivation.
+* Mindset and attitude. Traditional classroom grading severely
+  punishes intellectual risktaking.
+* Rapid feedback and formative assessment. Mastery learning generally
+  requires providing students or instructors with means to immediately
+  monitor student learning.
+
+http://en.wikipedia.org/wiki/Learning_curve
+http://en.wikipedia.org/wiki/Bloom's_2_Sigma_Problem
+http://www.penny-arcade.com/patv/episode/gamifying-education
+
+ 5. ITS
+
+
+
+ 6. Targetting misconceptions
+
+In many disciplines, especially ones like physics, most of learning is
+unlearning. Students come in with significant misconceptions, and much
+of the process consists of identifying and breaking down those
+misconceptions. 
+
+ 7. 21st century skills
+
+
+
+ 8. Gamification --> Intermittent rewards
+ 9. Mastery learning
+10. Flow/constructive struggle
+11. Just-in-time teaching
+12. Clicker questions
+13. Formative assessment
+14. Metacognitive skills
+15. Deliberate practice
+16. Teacher Mentorship
+17. Grit. Creativity. etc. 
+18. Scaffolding/proximal zone of development
+19. Emotional connection
+
+
+20. Expert/novice patterns
+
+Roles: 
+* Facilitator. Goal: Make sure group comes to concensus
+* Worker: Do the work. 
+* Challenger: Challenge ideas. Bring in creativity. 
