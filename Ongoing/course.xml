@@ -98,7 +98,7 @@
       </vertical>
     </sequential>
 
-    <sequential display_name="Constructive learning: Theory" url_name="Constructive_learning_Theory">
+    <sequential display_name="Optional: Theory" url_name="Constructive_learning_Theory">
       <vertical display_name="Constructive learning: Theory" url_name="Constructive_learning_Theory_0">
         <html display_name="ICAP through vicarious learning" filename="ICAP_through_vicarious_learning" url_name="ICAP_through_vicarious_learning"/>
       </vertical>
@@ -112,6 +112,9 @@
         <html display_name="Citations" filename="Citations_0" url_name="Citations_0"/>
       </vertical>
     </sequential>
+
+    <vertical url_name="constructive_ora_exercise">
+    </vertical>
   </chapter>
 
   <chapter display_name="Pedagogical Foundations: Mastery Learning" hide_from_toc="true" url_name="Mastery_Learning">
