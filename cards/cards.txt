@@ -1,30 +1,31 @@
  1. Mindset interventions
 
 There is a substantial body of work that suggests students learn much
-more effectively with a good mindset towards learning. Perhaps the
-best known of these results is the work on the growth mindset by Carol
+more effectively with an appropriate mindset. Perhaps the best known
+of these results is the work on the growth mindset by Carol
 Dweck. Dweck has strong evidence that if students believe that
 intelligence is fixed, they will learn less than if they believe
 intelligence is malleable. She has a set of interventions -- ranging
 from explanations of the growth mindset to more subtle techniques such
 as complementing students for effort rather than for success -- which
-help lead to a growth mindset. 
+help lead to a growth mindset.
 
 http://en.wikipedia.org/wiki/Carol_Dweck
 
- 2. Forgetting curves (long)
+ 2. Forgetting curves
 
-There is (quite unsurprisingly) evidence that we retain knowledge much
-more effectively if we use it or repeat it. A study by David Pritchard
-at MIT compared student exam results in freshman physics between
-students who continued to use physics in future coursework, and ones
-who did not. Unsuprisingly, the difference was tremendous. 
+One of the least surprising results in learning science is that we
+retain knowledge much more effectively if we use it or repeat it. A
+study by David Pritchard at MIT compared student exam results in
+freshman physics between students who continued to use physics in
+future coursework, and ones who did not. The difference was
+tremendous.
 
 This is closely related to the concept of spaced repetition, but with
 different timescales. Spaced repetition (which another group is
-looking at) is useful for e.g. schedules for flash cards. Here, we're
-concerned about complex concepts, and practice over semesters and
-years.
+looking at) is useful for e.g. schedules for looking over factoidss on
+flash cards. Here, we're concerned about complex concepts, and
+practice over semesters and years.
 
 http://en.wikipedia.org/wiki/Forgetting_curve
 
@@ -43,22 +44,28 @@ http://en.wikipedia.org/wiki/Spaced_repetition
 
  4. Mastery learning
 
-Mastery learning is, quite simply, the concept that you don't move on
-until you've mastered a concept, so you don't learn information
-without prerequisite knowledge. In other words, I won't teach you
-multiplication until you've learned addition. A famous result by Bloom
+In materials taught with mastery learning, you don't move on to future
+materials until you've mastered a concept, so you do not try to learn
+information without prerequisite knowledge. A famous result by Bloom
 showed that a typical tutored students will outperform 95% of students
-in a traditional classroom. About half of that benefit comes from a
-tutor stopping on concepts until the student masters them.
+in a traditional classroom. About half of this benefit comes from
+mastery learning. If a student phases out for a moment in lecture,
+they might miss a critical concept, and misunderstand the rest of the
+lecture. In contrast, a tutor stopping on concepts until the student
+masters them.
 
-Mastery learning is closely tied to:
+Aside from learning science, support for many of the techniques used
+to typically implement mastery learning are found in a number of
+disciplines:
+
 * Self-regulated learning. Many forms of one include the other. 
 * Gamification. In mastery learning, students are generally rewarded
   for progress, rather than seriously punished for errors (e.g. you
   try again, rather than permanently losing a letter grade). This
   matches what we know about motivation.
 * Mindset and attitude. Traditional classroom grading severely
-  punishes intellectual risktaking.
+  punishes intellectual risktaking, since penalties for errors are
+  severe and permanent.
 * Rapid feedback and formative assessment. Mastery learning generally
   requires providing students or instructors with means to immediately
   monitor student learning.
