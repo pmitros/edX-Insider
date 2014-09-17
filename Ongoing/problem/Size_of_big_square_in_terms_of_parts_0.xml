@@ -2,7 +2,7 @@
   <center>
     <img src="/static/pythagoras_size_of_square_2.png" />
   </center>
-  <p> What is the size of the large square, as a sum of the small square and triangles? </p>
+  <p> What is the size of the large square as a sum of the small square and triangles? </p>
   <formularesponse answer="c^2+2*a*b" samples="a,b,c@1,2,3:4,5,6#10" type="cs">
     <responseparam default="0.00001" type="tolerance" />
     <formulaequationinput size="40" />
