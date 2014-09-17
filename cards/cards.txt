@@ -78,9 +78,41 @@ unlearning. Students come in with significant misconceptions, and much
 of the process consists of identifying and breaking down those
 misconceptions. 
 
- 7. 21st century skills
+ 7. Teaching 21st Century Skills
 
+While there is a perception that employers want directly applicable
+skills, the reality is that most employers increasingly want 21st
+century skills
+(http://chronicle.com/article/Giving-Employers-What-They/139877). We've
+selected five skills
+(http://www.imls.gov/about/21st_century_skills_list.aspx) to focus on:
 
+* Critical thinking, creativity, innovation, and problem solving
+* Financial, economic, business, and entrepreneurial literacy
+* Flexibility, adaptation, initiative, and self-direction
+* Social, collaborative, and cross-cultural skils
+* Leadership and responsibility
+
+Come up with a way in which technology can be used to more effectively
+teach one or more of these skills. 
+
+ 8. Assessing 21st Century Skills
+
+While there is a perception that employers want directly applicable
+skills, the reality is that most employers increasingly want 21st
+century skills
+(http://chronicle.com/article/Giving-Employers-What-They/139877). We've
+selected five skills
+(http://www.imls.gov/about/21st_century_skills_list.aspx) to focus on:
+
+* Critical thinking, creativity, innovation, and problem solving
+* Financial, economic, business, and entrepreneurial literacy
+* Flexibility, adaptation, initiative, and self-direction
+* Social, collaborative, and cross-cultural skils
+* Leadership and responsibility
+
+Come up with a way in which technology can be used to more effectively
+assess and measure students on these skills. 
 
  8. Gamification --> Intermittent rewards
  9. Mastery learning
