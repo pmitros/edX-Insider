@@ -1,13 +1,13 @@
-<problem display_name="Active learning example" markdown="&gt;&gt;Broadly speaking, what are good uses of problems in a learning sequence?&lt;&lt;&#10;&#10;[x] To deliver information in a more active way. &#10;[x] To assess student performance. (formative assessment) &#10;[x] To give students a means to construct information for themselves, rather than telling them. (constructive learning)&#10;[x] To allow students to practice concepts they are learning. (active learning)&#10;[x] To give students a tool to monitor their own level of progress and mastery. (metacognition)&#10;[x] To allow students to quickly figure out whether they already know the material, so they can skip watching tedious videos or reading text. (improve efficacy)&#10;" url_name="Active_learning_example">
+<problem display_name="Active learning example">
   <p>Broadly speaking, what are good uses of problems in a learning sequence?</p>
   <choiceresponse>
     <checkboxgroup direction="vertical" label="What's a good use of problems in a learning sequence?">
       <choice correct="true">To deliver information in a more active way. </choice>
-      <choice correct="true">To assess student performance. (formative assessment)</choice>
+      <choice correct="true">To continuously assess and monitor student understanding. (<a href="http://en.wikipedia.org/wiki/Formative_assessment">formative assessment</a>)</choice>
       <choice correct="true">To give students a means to construct information for themselves, rather than telling them. (constructive learning)</choice>
       <choice correct="true">To allow students to practice concepts they are learning. (active learning)</choice>
-      <choice correct="true">To give students a tool to monitor their own level of progress and mastery. (metacognition)</choice>
-      <choice correct="true">To allow students to quickly figure out whether they already know the material, so they can skip watching tedious videos or reading text. (improve efficacy)</choice>
+      <choice correct="true">To give students a tool to monitor their own level of progress and mastery. (<a href="http://en.wikipedia.org/wiki/Metacognition">metacognition</a>)</choice>
+      <choice correct="true">To allow students to quickly figure out whether they already know the material, so they can skip watching tedious videos or reading text. (allow students to <a href="http://en.wikipedia.org/wiki/Self-regulated_learning">self-regulate</a> to improve efficacy)</choice>
     </checkboxgroup>
   </choiceresponse>
 </problem>
