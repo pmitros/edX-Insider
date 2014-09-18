@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <course advanced_modules="[&quot;concept&quot;, &quot;done&quot;, &quot;profile&quot;, &quot;recommender&quot;]" course="edX_Insider" course_image="anant_code.png" display_name="edX Insider" enrollment_start="2014-03-01T04:00:00Z" org="edX" start="2014-03-03T00:00:00Z" url_name="Ongoing">
   <chapter display_name="Pedagogical Foundations: Constructive Learning" url_name="Week_2_Technology_enabled_constructive_learning">
-    <sequential display_name="Overview (go here first)" url_name="Overview_go_here_first">
+    <sequential format="Learning Sequence" graded="true" display_name="Overview (go here first)" url_name="Overview_go_here_first">
       <vertical display_name="Week's overview" url_name="Week_s_overview">
         <html display_name="Week overview" filename="Week_overview" url_name="Week_overview"/>
 	<done display_name="Read week overview" url_name="Read_week_overview" align="right"/>
@@ -16,7 +16,7 @@
       </vertical>
     </sequential>
 
-    <sequential display_name="Tutorial-style learning sequences" url_name="Tutorial_style_learning_sequences">
+    <sequential format="Learning Sequence" graded="true" display_name="Tutorial-style learning sequences" url_name="Tutorial_style_learning_sequences">
       <vertical display_name="Constructive learning continuum" url_name="Constructive_learning_continuum">
         <html filename="Constructive_learning_continuum_html" url_name="Constructive_learning_continuum_html" display_name="Constructive learning continuum"/>
         <problem url_name="Constructive_active_learning_example"/>
@@ -50,7 +50,7 @@
       </vertical>
     </sequential>
 
-    <sequential display_name="Tutorial-style learning sequence: Examplar" url_name="Tutorial_style_learning_sequence_Examplar">
+    <sequential format="Learning Sequence" graded="true" display_name="Tutorial-style learning sequence: Examplar" url_name="Tutorial_style_learning_sequence_Examplar">
       <vertical display_name="Introduction" url_name="Introduction_0">
         <html display_name="Intro" filename="Intro_1" url_name="Intro_1"/>
 	<done display_name="Read intro part 2" url_name="Read_intro_part_2" align="right"/>
@@ -108,9 +108,10 @@
       <vertical display_name="Vicarious learning in practice 2" url_name="Vicarious_learning_in_practice_2">
         <video display_name="Vicarious modelling - volume 2" url_name="Vicarious_modelling_volume_2" youtube="1.00:GpPPIe63N2I" youtube_id_1_0="GpPPIe63N2I"/>
       </vertical>
-      <vertical display_name="Citations" url_name="Citations">
+      <!-- Omit this for now. It's really not ready to go. -->
+      <!--vertical display_name="Citations" url_name="Citations">
         <html display_name="Citations" filename="Citations_0" url_name="Citations_0"/>
-      </vertical>
+      </vertical-->
     </sequential>
 
     <vertical url_name="constructive_ora_exercise">
