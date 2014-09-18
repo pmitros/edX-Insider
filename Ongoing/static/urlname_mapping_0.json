@@ -1,0 +1,13 @@
+{
+  "Image_Principle": "8daf43612234468dae2c62c9bd97db72", 
+  "Voice_Principle": "7068cbdf2f034159a95e20c08e315713", 
+  "Segmenting_Principle": "40be71c575034c81b9a540668e93b201", 
+  "Spatial_Contiguity_Principle": "46b3b158cbf44780959834a870d02979", 
+  "Coherence_Principle": "748021d5724f4d58aa49f8af51a090d6", 
+  "Modality_Principle": "86ea8a2361ed4599bfe88f6c5fd95be4", 
+  "Signaling_Principle": "557c97a214f14ca8988030a79c3b0d16", 
+  "Redundancy_Principle": "f6dbed7fa0f549e6b4be3a96990de6e3", 
+  "Personalization_Principle": "51045280b5304a30bd5ee6cdb6b954de", 
+  "Temporal_Contiguity_Principle": "11e8aaf73a43455c817ce3e7da9edf08", 
+  "Multimedia_Principle": "a050dc8cfb9d4534829ca2313e59dcde"
+}

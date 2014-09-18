@@ -59,7 +59,7 @@
     }, 
     "displayname": "anant_code.png", 
     "filename": "/c4x/edX/edX_Insider/asset/anant_code.png", 
-    "import_path": null, 
+    "import_path": "anant_code.png", 
     "locked": false, 
     "thumbnail_location": [
       "c4x", 
@@ -236,7 +236,7 @@
     }, 
     "displayname": "steve_suit.jpg", 
     "filename": "/c4x/edX/edX_Insider/asset/steve_suit.jpg", 
-    "import_path": null, 
+    "import_path": "steve_suit.jpg", 
     "locked": false, 
     "thumbnail_location": [
       "c4x", 
@@ -452,6 +452,22 @@
     "displayname": "urlname_mapping_3.json", 
     "filename": "/c4x/edX/edX_Insider/asset/urlname_mapping_3.json", 
     "import_path": "urlname_mapping_3.json", 
+    "locked": false, 
+    "thumbnail_location": null
+  }, 
+  "urlname_mapping_4.json": {
+    "contentType": "application/json", 
+    "content_son": {
+      "category": "asset", 
+      "course": "edX_Insider", 
+      "name": "urlname_mapping_4.json", 
+      "org": "edX", 
+      "revision": null, 
+      "tag": "c4x"
+    }, 
+    "displayname": "urlname_mapping_4.json", 
+    "filename": "/c4x/edX/edX_Insider/asset/urlname_mapping_4.json", 
+    "import_path": "urlname_mapping_4.json", 
     "locked": false, 
     "thumbnail_location": null
   }

@@ -15,9 +15,7 @@
     }, 
     "display_name": "edX Insider", 
     "enrollment_start": "2014-03-01T04:00:00Z", 
-    "lti_passports": [
-      "piazza_id:edx.org:piazza_0ed0-0ex0"
-    ], 
+    "graceperiod": "1 days", 
     "start": "2014-03-03T00:00:00Z", 
     "tabs": [
       {

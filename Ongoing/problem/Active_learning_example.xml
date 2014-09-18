@@ -1,4 +1,4 @@
-<problem display_name="Active learning example">
+<problem display_name="Active learning example" url_name="Active_learning_example">
   <p>Broadly speaking, what are good uses of problems in a learning sequence?</p>
   <choiceresponse>
     <checkboxgroup direction="vertical" label="What's a good use of problems in a learning sequence?">
