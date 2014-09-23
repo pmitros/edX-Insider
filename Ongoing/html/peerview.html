@@ -1,0 +1,366 @@
+<!DOCTYPE html>
+<html>
+    <head>
+<style type='text/css'>
+/* CSS for ProfileXBlock */
+
+.profileblock {
+    border-color: #dddddd !important;
+    padding: 15px !important;
+}
+
+.profile_photo_upload {
+    display:none;
+}
+
+.profileblock .count {
+    font-weight: bold !important;
+}
+
+.profileblock p {
+    cursor: pointer !important;
+}
+
+.profileblock .active .active-edit{
+    display:block;
+}
+
+.profileblock .inactive-edit {
+    font-weight:bold !important; 
+    padding: 0px 10px 0px 10px !important;
+    -moz-box-sizing: border-box !important; 
+    -webkit-box-sizing: border-box !important; 
+    box-sizing: border-box !important;
+    border-width: 1px !important; 
+    border-style: solid !important;
+    width: 100% !important; 
+    border-color: #dddddd !important;
+    background-color: #fdfdfd !important;
+}
+
+.profileblock  .profile_one_liner .inactive-edit {
+    height:19px !important;
+}
+
+.profileblock .profile_ol_edit {
+    height:19px !important;
+}
+
+.profileblock .active .inactive-edit{
+    display:none;
+}
+
+.profileblock .active-edit{
+    display:none;
+}
+
+.profileblock .inactive-edit{
+    display:block;
+}
+
+/* This is kind of aggressive, but the block is designed to be on it's
+   own page without much styling around it. The styling in
+   edx-platform is sensible, but workbench has issues. This strips out
+   some of the bad styling Workbench would put around it otherwise. */
+.view-workbench {
+	background: #fff !important;
+	color: #666 !important;
+	font: 85%/140% Arial, Helvetica, sans-serif !important;
+	width: 800px !important;
+	max-width: 96% !important;
+	margin: 0 auto !important;
+}
+
+/* In edx-platform, we restrict this styling to just the XBlock
+   itself. */
+.profileblock {
+	background: #fff !important;
+	color: #666 !important;
+	font: 85%/140% Arial, Helvetica, sans-serif !important;
+	width: 800px !important;
+	max-width: 96% !important;
+	margin: 0 auto !important;
+}
+
+.profileblock p {
+    line-height: 16.18px !important;
+    font-family: Arial, Helvetica, sans-serif !important;
+    font-size: 11.111111640930176px !important;
+    color: rgb(102, 102, 102) !important;
+    margin-bottom: 11.111111640930176px !important;
+    margin-top: 11.111111640930176px !important;
+}
+
+.profileblock .p {
+    line-height: 16.18px !important;
+    font-family: Arial, Helvetica, sans-serif !important;
+    font-size: 11.111111640930176px !important;
+    color: rgb(102, 102, 102);
+}
+
+.profileblock a {
+	color: #69C !important;
+	text-decoration: none !important;
+}
+
+.profileblock a:hover {
+	color: #F60 !important;
+}
+
+.profileblock h1 {
+	font: 1.7em !important;
+	/*line-height: 110% !important;*/
+	font-family: Arial, Helvetica, sans-serif !important;
+	height: 14.44444465637207px !important;
+	line-height: 14.877721786499023px !important;
+	margin-bottom: 20px !important;
+	font-size: 17.78px !important;
+	font-weight: bold !important;
+	margin-top: 17.78px !important;
+}
+
+.profileblock h1, h2, h3 {
+	color: #555 !important;
+}
+
+.profileblock h3 {
+	border-top: solid 1px #eee !important;
+	padding: 20px 0 !important;
+	margin: 20px 0 0 !important;
+	font-size: 150% !important;
+}
+
+.profileblock article {
+	border-width: 4px 0px 0px 0px !important;
+	border-style: solid !important;
+}
+
+/* set html5 elements to block */
+.profileblock article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section { 
+    display: block;
+}
+
+#profile_pagewrap {
+	width: 978px !important;
+	max-width: 96% !important;
+	margin: 0 auto !important;
+}
+
+.profile_wrapper {
+	overflow: hidden !important;
+}
+
+/************************************************************************************
+COLUMN
+*************************************************************************************/
+.profilecol {
+	float: left !important;
+	margin-left: 3.2% !important;
+	margin-bottom: 30px !important;
+	padding-right : 10px !important;
+}
+
+.fullwidth .profilecol {
+	float: none !important;
+	margin-left: 0 !important;
+}
+/* grid4 col */
+.grid4 .profilecol {
+	width: 22.6% !important;
+}
+/* grid3 col */
+.grid3 .profilecol {
+	width: 31.2% !important;
+}
+/* grid2 col */
+.grid2 .profilecol {
+	width: 48.4% !important;
+}
+/* clear col */
+.grid4 .profilecol:nth-of-type(4n+1),
+.grid3 .profilecol:nth-of-type(3n+1),
+.grid2 .profilecol:nth-of-type(2n+1) {
+	margin-left: 0 !important;
+
+}
+
+/************************************************************************************
+MEDIA QUERIES
+*************************************************************************************/
+/* reset cols to 3-column */
+@media screen and (max-width: 740px) {
+	/* grid4 */
+	.grid4 .profilecol {
+		width: 31.2% !important;
+	}
+	.grid4 .profilecol:nth-of-type(4n+1) {
+		margin-left: 3.2% !important;
+
+	}
+	.grid4 .profilecol:nth-of-type(3n+1) {
+		margin-left: 0 !important;
+
+	}
+}
+
+/* reset cols to 2-column */
+@media screen and (max-width: 600px) {
+	/* grid4 */
+	.grid4 .profilecol {
+		width: 48.4% !important;
+	}
+	.grid4 .profilecol:nth-of-type(3n+1) {
+		margin-left: 3.2% !important;
+	}
+	.grid4 .profilecol:nth-of-type(2n+1) {
+		margin-left: 0 !important;
+	}
+
+	/* grid3 */
+	.grid3 .profilecol {
+		width: 48.4% !important;
+	}
+	.grid3 .profilecol:nth-of-type(3n+1) {
+		margin-left: 3.2% !important;
+	}
+	.grid3 .profilecol:nth-of-type(2n+1) {
+		margin-left: 0 !important;
+	}
+}
+
+/* reset cols to fullwidth */
+@media screen and (max-width: 400px) {
+	/* grid4 */
+	.profilecol {
+		width: 100% !important !important;
+		margin-left: 0 !important !important;
+
+	}
+}
+
+.profileblock article:nth-of-type(100n) {
+  border-color: azure !important;
+}
+
+.profileblock article:nth-of-type(100n+1) {
+  border-color: aliceblue !important;
+}
+
+.profileblock article:nth-of-type(100n+2) {
+  border-color: antiquewhite !important;
+}
+
+.profileblock article:nth-of-type(100n+3) {
+  border-color: aquamarine !important;
+}
+
+
+</style>
+</head>
+    <body>
+      <div style="display:flex">
+      <div style="display:table" class="user_table">
+      </div>
+      <div class="profileblock">
+        <div id="user_info">
+          Mouse over photos to see users' profiles
+        </div>
+      </div>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="http://cdnjs.cloudflare.com/ajax/libs/mustache.js/0.8.1/mustache.min.js"></script>
+<script>
+var user_data_list;
+
+function render_user_table(data) {
+   /// Render a table of user profile photos
+   html = ""
+   div = ""
+   row = '<div style="display:table-row">{{{row}}}</div>'
+   img = '<div style="display:table-cell"><img style="height:auto; width:auto; max-width:100px; max-height:100px" src="{{{image_source}}}" class="profile_{{{count}}}"/></div>'
+   
+   for(var i=0; i<data.length; i++) {
+      div = div + Mustache.render(img, {'image_source':"http://pmitros.edx.org/pmitros/profiles/"+data[i]['photo'], 'count':i});
+      if(i%3 == 2) {
+         html = html + Mustache.render(row, {'row':div});
+         div = "";
+      }
+   }
+   html = html + Mustache.render(row, {'row':div});
+   $(".user_table").html(html);
+}
+
+function event_user_table(data){
+   /// Add events to the user table for mouseoverse, etc.
+   for(var i=0; i<user_data_list.length; i++) {
+      $( ".profile_"+i ).mouseover(function(event) {
+         // JavaScript closures break and i=27 here. Poor work-around to get back i. 
+         offset = event.currentTarget.className.substring(8);
+         d = user_data_list[offset]
+         d['url_base'] = "http://pmitros.edx.org/pmitros/profiles/"
+         $("#user_info").html(Mustache.render($(".user_data_template").text(), d));
+      });
+   }
+}
+
+$(function() {
+   if(window.location.hostname == "localhost") {
+      url = "../profiles.json";
+   } else if (window.location.hostname == "edge.edx.org") {
+      url = "edge.edx.org/c4x/edX/edX_Insider/asset/profiles.json";
+   } else {
+      url = "profiles.json";
+   }
+   jQuery.ajax(url, { dataType: "json" }).done(function(data) {
+      user_data_list = data;
+      render_user_table(user_data_list);
+      event_user_table(user_data_list);
+   })
+});
+</script>
+
+<script type="text/template" class="user_data_template">
+  <h1 style="text-align:left">{{edx_name}}</h1>
+  <div class="profile_wrapper grid2">
+    <div id="profile_block_0">
+      <div class="profilecol">
+	<article><div id="profile_block_0_0">
+	    <div class="profile_photo_wrapper">
+	      <div class="profile_image_wrapper">
+		<center>
+		  <img class="profile_photo_image" src="http://pmitros.edx.org/pmitros/profiles/{{photo}}"> <br>
+		  {{{ insider_org-position }}}
+		</center>
+	      </div>
+	    </div>
+	</div></article>
+	<article><div id="profile_block_0_1">
+	    <p> {{ insider_bio }} </p>
+	    <div class="p"> <strong>Reasons for joining edX</strong> </div>
+	    <p> {{ insider_motiviation }} </p>
+	    <div class="p"> <strong>Education background</strong> </div>
+	    <p> {{ insider_edbackground }} </p>
+	    <div class="p"> <strong>Technology background</strong> </div>
+	    <p> {{ insider_techbackground }} </p>
+	</div></article>
+	<article><div id="profile_block_0_2">
+{{# edx_website }} <div class="p"> <a href="{{ edx_website }}"><img src="{{ url_base }}static/pages-3-16.png"> <a href="{{ edx_website}} ">{{ edx_website }}</a></div>  {{/ edx_website }}
+{{# edx_email }} <div class="p"> <a href="mailto:{{ edx_email }}"><img src="{{ url_base }}static/email-16.png"> {{ edx_email }}</a></div>  {{/ edx_email }}
+{{# edx_github }} <div class="p"> <a href="http://github.com/{{ edx_github }}"><img src="{{ url_base }}static/github-16.png"> http://github.com/{{ edx_github }}</a></div>  {{/ edx_github }}
+{{# edx_facebook }}  <div class="p"> <a href="http://facebook.com/{{ edx_facebook }}"><img src="{{ url_base }}static/facebook-3-16.png"> http://facebook.com/{{ edx_facebook }}</a></div> {{/ edx_facebook }}
+{{# edx_googleplus }} <div class="p"> <a href="http://plus.google.com/{{ edx_googleplus }}"><img src="{{ url_base }}static/google-plus-4-16.png"> http://plus.google.com/{{ edx_googleplus }}</a></div>  {{/ edx_googleplus }}
+{{# edx_linkedin }} <div class="p"> <a href="http://linkedin.com/in/{{ edx_linkedin }}"><img src="{{ url_base }}static/linkedin-16.png"> http://linkedin.com/in/{{ edx_linkedin }}</a></div>  {{/ edx_linkedin }}
+{{# edx_phone }} <div class="p"> <img src="{{ url_base }}static/phone-16.png" /> {{ edx_phone }}</div>  {{/ edx_phone }}
+{{# edx_skype }} <div class="p"> <a href="skype:{{ edx_skype }}?call"><img src="{{ url_base }}static/skype-16.png" /> {{ edx_skype }}</a></div>  {{/ edx_skype }}
+{{# edx_twitter }} <div class="p"> <a href="http://twitter.com/{{ edx_twitter }}"><img src="{{ url_base }}static/twitter-16.png"> http://twitter.com/{{ edx_twitter }}</a></div>  {{/ edx_twitter }}
+	</div></article>
+	<article><div id="profile_block_0_7>"stu
+{{# edx_age }} <div class="p"> Age: {{ edx_age }}</div>  {{/ edx_age }}
+{{# insider_location }} <div class="p"> Location: {{ insider_location }}</div>  {{/ insider_location }}
+{{# edx_languages }} <div class="p"> Languages: {{ edx_languages }}</div>  {{/ edx_languages }}
+	</div></article>
+      </div>
+    </div>
+  </div>
+</script>
+    </body>
+</html>
