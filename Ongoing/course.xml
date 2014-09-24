@@ -140,7 +140,7 @@
     <vertical chrome="tabs" default_tab="profile" display_name="Profile" url_name="Profile">
       <html url_name="profile_tabs">
 	<div>
-	  <a href="https://edge.edx.org/courses/edX/edX_Insider/Ongoing/courseware/Profile/Profile/">[My profile]</a> <a href="https://edge.edx.org/courses/edX/edX_Insider/Ongoing/courseware/Profile/Peer_Profile/">[Peer Profiles]</a>
+	  <a href="https://edge.edx.org/courses/edX/edX_Insider/Ongoing/courseware/Profile/Peer_Profile/">View peer profiles &gt;&gt;</a>
 	</div>
       </html>
       <profile chrome="tabs" default_tab="profile" display_name="Profile" url_name="Profile"/>
@@ -156,16 +156,23 @@
     <vertical chrome="tabs" default_tab="profile" display_name="Peer Profile" url_name="Peer_Profile">
       <html url_name="peer_profile_tabs">  
 	<div>
-	  <a href="https://edge.edx.org/courses/edX/edX_Insider/Ongoing/courseware/Profile/Profile/">[My profile]</a> <a href="https://edge.edx.org/courses/edX/edX_Insider/Ongoing/courseware/Profile/Peer_Profile/">[Peer Profiles]</a>
+	  <a href="https://edge.edx.org/courses/edX/edX_Insider/Ongoing/courseware/Profile/Profile/"> &lt;&lt; Edit my profile</a>
 	</div>
       </html>
       <html url_name="peer_profile" filename="peerview" display_name="Peer Profile View"/>
-      <html>Errata: This is a hack. This is a known hack, just for the
-      edX run of the Insider course. Pending XBlocks data model, the
-      way we manage this page is completely manual. We run a script on
-      the read replica. We generate the above. We figure edX engineers
-      will be able to figure this out. Please pardon the rough
-      edges. </html>
+      <html><p>Errata: This page is a quick hack. This is limitied just
+      to the edX run of the Insider course. Pending XBlocks data
+      model, the way we manage this page is completely manual. We
+      periodically run a script on the read replica. We generate the
+      above from the output of the script. This is an occasional
+      process (we do this once in a while). It does not update in real
+      time. </p>
+      <p> 
+	We understand this page is horrific. We don't recommend
+	exposing anyone other than trained software engineers to this
+	page.
+      </p>
+      </html>
     </vertical>
   </chapter>
   <wiki slug="edX.edX_Insider.Ongoing"/>
