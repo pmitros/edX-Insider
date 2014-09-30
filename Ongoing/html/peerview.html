@@ -291,15 +291,32 @@ function render_user_table(data) {
 
 function event_user_table(data){
    /// Add events to the user table for mouseoverse, etc.
-   for(var i=0; i<user_data_list.length; i++) {
+   for(var i=0; i<data.length; i++) {
       $( ".profile_"+i ).mouseover(function(event) {
          // JavaScript closures break and i=27 here. Poor work-around to get back i. 
          offset = event.currentTarget.className.substring(8);
-         d = user_data_list[offset]
-         d['url_base'] = "http://pmitros.edx.org/pmitros/profiles/"
-         $("#user_info").html(Mustache.render($(".user_data_template").text(), d));
+         select_user(offset, data);
       });
    }
+}
+
+function select_user(offset, data) {
+   d = data[offset]
+   d['url_base'] = "http://pmitros.edx.org/pmitros/profiles/"
+   $("#user_info").html(Mustache.render($(".user_data_template").text(), d));
+}
+
+function find_user(id, data) {
+   // Find a user based on a user ID. 
+   // If still nothing, return -1. 
+   // TODO: If not found, use a heuristic to do a search.
+   for(var i=0; i<data.length; i++) {
+      if(data[i].student_id == id) {
+         return i;
+      }
+   }
+
+   return -1;
 }
 
 $(function() {
@@ -314,6 +331,9 @@ $(function() {
       user_data_list = data;
       render_user_table(user_data_list);
       event_user_table(user_data_list);
+      if(window.location.hash.length > 1) {
+         select_user(find_user(window.location.hash.substring(1), user_data_list), user_data_list);
+      }
    })
 });
 </script>
