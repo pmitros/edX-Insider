@@ -116,6 +116,24 @@
 
     <vertical url_name="constructive_ora_exercise">
     </vertical>
+
+    <sequential display_name="In-class exercise" url_name="in_class">
+      <html display_name="Overview" url_name="overview">
+	<p>In the on-line portion, we examined a way we used technology to allow efficient implementation of one theory from learning science – constructive learning – in edX. In designing the edX platform, we applied many such techniques. We took aspects of mastery learning, project-based learning, gamification and others. Other platforms have sophisticated techniques for targeting specific student misconceptions, enabling a range of student social experiences, assessing teacher performance, and hundreds of other research-based techniques. We would like to give you a chance to practice with designing software to enable good pedagogy. </p>
+	<p> You've either assigned yourself or we've assigned you to teams of three. The groupings are available in <a href="https://edge.edx.org/courses/edX/edX_Insider/Ongoing/wiki/edX.edX_Insider.Ongoing/work-groups/">the wiki</a>. </p>
+	<table border="0"><tr><td align="right">3pm-3:10pm</td><td>Welcome! </td></tr>
+	<tr><td align="right">3:10pm-3:20pm</td><td>Read cards. Discuss the problem. Brainstorm possible solutions</td></tr>
+	<tr><td align="right">3:20pm-3:30pm</td><td>Have each team member take 5 minutes to draw a mockup of one solution (can be the same solution). Pick one solution to focus on for the remainder of the meeting. </td></tr>
+	<tr><td align="right">3:30-3:40pm</td><td>Work together to design a UX for this. </td></tr>
+	<tr><td align="right">3:40-3:45pm</td><td>Take a minute to discuss: If we wanted to bring this to the edX platform, how easy would it be with XBlocks, our analytics APIs, and our content store? Talk through some architectural implications. What did we do well? What did we do poorly? </td></tr>
+	<tr><td align="right">3:45-3:50pm</td><td>Readout: Present your ideas to your fellow groups. </td></tr>
+	<tr><td align="right">3:50pm-4pm</td><td>Read-out. How was this activity? Should we do more? Where should we go from here? </td></tr></table>
+      </html>
+      <vertical url_name="in_class_ora">
+      </vertical>
+      <problem url_name="res_survey" filename="res_survey" display_name="Survey: What next?">
+      </problem>
+    </sequential>
   </chapter>
 
   <chapter display_name="Pedagogical Foundations: Mastery Learning" hide_from_toc="true" url_name="Mastery_Learning">

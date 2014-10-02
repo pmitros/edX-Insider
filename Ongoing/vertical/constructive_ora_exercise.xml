@@ -1,6 +1,6 @@
 <vertical display_name="Optional: ORA Exercise">
   <openassessment url_name="ORA_constructive_exercise" leaderboard_show="20" allow_file_upload="True" allow_latex="True">
-    <title></title>
+    <title>Optional: ORA Exercise</title>
     <assessments>
       <assessment name="peer-assessment" must_grade="3" must_be_graded_by="2"/>
       <assessment name="self-assessment"/>

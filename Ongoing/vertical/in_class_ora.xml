@@ -1,0 +1,16 @@
+<vertical display_name="Optional Peer Review: Share your design">
+  <openassessment url_name="ora_share_residential" leaderboard_show="20" allow_file_upload="True" allow_latex="True">
+    <title>Optional Peer Review: Share your design</title>
+    <assessments>
+      <assessment name="peer-assessment" must_grade="3" must_be_graded_by="2"/>
+    </assessments>
+    <rubric>
+      <prompt>Were you proud of what you designed? Or perhaps you'd just like some feedback? Share your design. 
+
+       Place your design on the course wiki, upload it here, or put it anywhere else you like. Provide a link here. This is set up as an ungraded ORA problem, but peers can provide feedback, and everyone should be able to see all submissions. </prompt>
+      <feedbackprompt>What did you think about this design? What were the strengths? How could it improve? What would we need to do to add this to edX?</feedbackprompt>
+      <feedback_default_text>I noticed that this response...
+      </feedback_default_text>
+    </rubric>
+  </openassessment>
+</vertical>
