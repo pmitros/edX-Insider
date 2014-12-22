@@ -154,6 +154,30 @@
     </sequential>
   </chapter>
 
+  <chapter display_name="Additional Resources" hide_from_toc="true" url_name="Additional_Resources">
+    <sequential display_name="Community of Practice Videos" url_name="cop_videos">
+      <video display_name="May 21 | HarvardX Research: Future Directions" youtube_id="1.00:3DuXOWlmbAx9M"/>
+      <video display_name="May 23 | edX Product Update" youtube_id="1.00:3DZW9kCl2Vd3c"/>
+      <video display_name="June 13 | Peer Grading Overview" youtube_id="1.00:3Drc2tZcWNNKU"/>
+      <video display_name="June 20 | Audio for Video" youtube_id="1.00:3DIaWeYdJIRCw"/>
+      <video display_name="June  23 | Building Community: A Conversation with Dave Cormier" youtube_id="1.00:3DPUcUTeDdBy8"/>
+      <video display_name="July 1 | Working with the new edX Studio Publishing Workflow" youtube_id="1.00:3Dqb5iBgCFJ4o"/>
+      <video display_name="July 3 | Activating Idle Knowledge" youtube_id="1.00:3DYZeocbX-ZnQ"/>
+      <video display_name="July 10 | Working with edX Data: Research to Institutional Reporting" youtube_id="1.00:3Dk-GZQsi5x6w"/>
+      <video display_name="July 29 | edX Product Update" youtube_id="1.00:3DfYC92TIAve8"/>
+      <video display_name="August 20 | Building Community and Student Engagement=2C Part 1" youtube_id="1.00:3DKfT6nsFdjqE"/>
+      <video display_name="August 28 | MOOC Learning and Secondary School Students" youtube_id="1.00:3DShpkmp7ZYOo"/>
+      <video display_name="September 10 | Confusion Can Help Teaching" youtube_id="1.00:3D6VKuebGEQWM"/>
+      <video display_name="October 2 | edX Product Update" youtube_id="1.00:3DCzfvCTLrFv0"/>
+      <video display_name="October 10 | Cultivating the Seeds of Mentorship: Students as Resources for Creating a Conducive Online Learning Environment" youtube_id="1.00:3DscX5Y-yaFCo"/>
+      <video display_name="October 21 | Student Privacy and edX Data" youtube_id="1.00:3DeQoWNOKOZ48"/>
+      <video display_name="October 28 | Formative Assessment and Flipping the Classroom" youtube_id="1.00:3DA4qLZGdErCE"/>
+      <video display_name="November 5 | MLBlocks: Machine Learning Blocks and Predictive Modeling for MOOC Learner Data" youtube_id="1.00:3Dynltw3lg2Xw"/>
+      <video display_name="November 12 | Practicing Community: How edX does Open Source" youtube_id="1.00:3D7ud6i98teSE"/>
+      <video display_name="December 17 | College (Un)Bound: The Future of Higher Education" youtube_id="1.00:3Dm8ZnddgAfZg"/>
+    </sequential>
+  </chapter>
+
   <chapter display_name="Profile" hide_from_toc="true" url_name="Profile">
     <vertical chrome="tabs" default_tab="profile" display_name="Profile" url_name="Profile">
       <html url_name="profile_tabs">
