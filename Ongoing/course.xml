@@ -2,17 +2,17 @@
 <course advanced_modules="[&quot;concept&quot;, &quot;done&quot;, &quot;profile&quot;, &quot;recommender&quot;]" course="edX_Insider" course_image="anant_code.png" display_name="edX Insider" enrollment_start="2014-03-01T04:00:00Z" org="edX" start="2014-03-03T00:00:00Z" url_name="Ongoing">
   <chapter display_name="edX Pedagogical Foundations: Constructive Learning" url_name="Week_2_Technology_enabled_constructive_learning">
     <sequential format="Learning Sequence" graded="true" display_name="Overview (go here first)" url_name="Overview_go_here_first">
-      <vertical display_name="Week's overview" url_name="Week_s_overview">
-        <html display_name="Week overview" filename="Week_overview" url_name="Week_overview"/>
+      <vertical display_name="Module overview" url_name="Module_overview">
+        <html display_name="Module overview" filename="Module_overview" url_name="Module_overview"/>
 	<done display_name="Read week overview" url_name="Read_week_overview" align="right"/>
-      </vertical>
-      <vertical display_name="ICAP intro" url_name="ICAP_intro">
-        <html filename="ICAP_Intro_HTML" url_name="ICAP_Intro_HTML" display_name="ICAP Overview"/>
-	<done display_name="Read ICAP overview" url_name="Read_ICAP_overview" align="right"/>
       </vertical>
       <vertical display_name="Expectations" url_name="Expectations">
         <html filename="Expectations" url_name="Expectations_HTML" display_name="Expectations Overview"/>
 	<done display_name="Read expectations overview" url_name="Read_Expectations_overview" align="right"/>
+      </vertical>
+      <vertical display_name="Theory Intro" url_name="Thero_intro">
+        <html filename="Theory_Intro" url_name="Theory_Intro" display_name="Introduction to the Theory"/>
+	<done display_name="Read ICAP overview" url_name="Read_ICAP_overview" align="right"/>
       </vertical>
     </sequential>
 
