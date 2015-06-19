@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <course advanced_modules="[&quot;concept&quot;, &quot;done&quot;, &quot;profile&quot;, &quot;recommender&quot;]" course="edX_Insider" course_image="anant_code.png" display_name="edX Insider" enrollment_start="2014-03-01T04:00:00Z" org="edX" start="2014-03-03T00:00:00Z" url_name="Ongoing">
-  <chapter display_name="Pedagogical Foundations: Constructive Learning" url_name="Week_2_Technology_enabled_constructive_learning">
+  <chapter display_name="edX Pedagogical Foundations: Constructive Learning" url_name="Week_2_Technology_enabled_constructive_learning">
     <sequential format="Learning Sequence" graded="true" display_name="Overview (go here first)" url_name="Overview_go_here_first">
       <vertical display_name="Week's overview" url_name="Week_s_overview">
         <html display_name="Week overview" filename="Week_overview" url_name="Week_overview"/>
@@ -98,42 +98,9 @@
       </vertical>
     </sequential>
 
-    <sequential display_name="Optional: Theory" url_name="Constructive_learning_Theory">
-      <vertical display_name="Constructive learning: Theory" url_name="Constructive_learning_Theory_0">
-        <html display_name="ICAP through vicarious learning" filename="ICAP_through_vicarious_learning" url_name="ICAP_through_vicarious_learning"/>
-      </vertical>
-      <vertical display_name="Vicarious learning in practice" url_name="Vicarious_learning_in_practice">
-        <video display_name="Introduction - modelled vicarious learning" url_name="Introduction_modelled_vicarious_learning" youtube="1.00:AT7SQHf7hmM" youtube_id_1_0="AT7SQHf7hmM"/>
-      </vertical>
-      <vertical display_name="Vicarious learning in practice 2" url_name="Vicarious_learning_in_practice_2">
-        <video display_name="Vicarious modelling - volume 2" url_name="Vicarious_modelling_volume_2" youtube="1.00:GpPPIe63N2I" youtube_id_1_0="GpPPIe63N2I"/>
-      </vertical>
-      <!-- Omit this for now. It's really not ready to go. -->
-      <!--vertical display_name="Citations" url_name="Citations">
-        <html display_name="Citations" filename="Citations_0" url_name="Citations_0"/>
-      </vertical-->
-    </sequential>
 
     <vertical url_name="constructive_ora_exercise">
     </vertical>
-
-    <sequential display_name="In-class exercise" url_name="in_class">
-      <html display_name="Overview" url_name="overview">
-	<p>In the on-line portion, we examined a way we used technology to allow efficient implementation of one theory from learning science – constructive learning – in edX. In designing the edX platform, we applied many such techniques. We took aspects of mastery learning, project-based learning, gamification and others. Other platforms have sophisticated techniques for targeting specific student misconceptions, enabling a range of student social experiences, assessing teacher performance, and hundreds of other research-based techniques. We would like to give you a chance to practice with designing software to enable good pedagogy. </p>
-	<p> You've either assigned yourself or we've assigned you to teams of three. The groupings are available in <a href="https://edge.edx.org/courses/edX/edX_Insider/Ongoing/wiki/edX.edX_Insider.Ongoing/work-groups/">the wiki</a>. </p>
-	<table border="0"><tr><td align="right">3pm-3:10pm</td><td>Welcome! </td></tr>
-	<tr><td align="right">3:10pm-3:20pm</td><td>Read cards. Discuss the problem. Brainstorm possible solutions</td></tr>
-	<tr><td align="right">3:20pm-3:30pm</td><td>Have each team member take 5 minutes to draw a mockup of one solution (can be the same solution). Pick one solution to focus on for the remainder of the meeting. </td></tr>
-	<tr><td align="right">3:30-3:40pm</td><td>Work together to design a UX for this. </td></tr>
-	<tr><td align="right">3:40-3:45pm</td><td>Take a minute to discuss: If we wanted to bring this to the edX platform, how easy would it be with XBlocks, our analytics APIs, and our content store? Talk through some architectural implications. What did we do well? What did we do poorly? </td></tr>
-	<tr><td align="right">3:45-3:50pm</td><td>Readout: Present your ideas to your fellow groups. </td></tr>
-	<tr><td align="right">3:50pm-4pm</td><td>Read-out. How was this activity? Should we do more? Where should we go from here? </td></tr></table>
-      </html>
-      <vertical url_name="in_class_ora">
-      </vertical>
-      <problem url_name="res_survey" filename="res_survey" display_name="Survey: What next?">
-      </problem>
-    </sequential>
   </chapter>
 
   <chapter display_name="Pedagogical Foundations: Mastery Learning" hide_from_toc="true" url_name="Mastery_Learning">
@@ -154,7 +121,7 @@
     </sequential>
   </chapter>
 
-  <chapter display_name="Additional Resources" hide_from_toc="true" url_name="Additional_Resources">
+  <chapter display_name="Bonus Content" url_name="bonus_content">
     <sequential display_name="Community of Practice Videos" url_name="cop_videos">
       <video display_name="May 21 | HarvardX Research: Future Directions" youtube_id="1.00:3DuXOWlmbAx9M"/>
       <video display_name="May 23 | edX Product Update" youtube_id="1.00:3DZW9kCl2Vd3c"/>
@@ -176,6 +143,23 @@
       <video display_name="November 12 | Practicing Community: How edX does Open Source" youtube_id="1.00:3D7ud6i98teSE"/>
       <video display_name="December 17 | College (Un)Bound: The Future of Higher Education" youtube_id="1.00:3Dm8ZnddgAfZg"/>
     </sequential>
+
+    <sequential display_name="Theory: Constructive Learning" url_name="Constructive_learning_Theory">
+      <vertical display_name="Constructive learning: Theory" url_name="Constructive_learning_Theory_0">
+        <html display_name="ICAP through vicarious learning" filename="ICAP_through_vicarious_learning" url_name="ICAP_through_vicarious_learning"/>
+      </vertical>
+      <vertical display_name="Vicarious learning in practice" url_name="Vicarious_learning_in_practice">
+        <video display_name="Introduction - modelled vicarious learning" url_name="Introduction_modelled_vicarious_learning" youtube="1.00:AT7SQHf7hmM" youtube_id_1_0="AT7SQHf7hmM"/>
+      </vertical>
+      <vertical display_name="Vicarious learning in practice 2" url_name="Vicarious_learning_in_practice_2">
+        <video display_name="Vicarious modelling - volume 2" url_name="Vicarious_modelling_volume_2" youtube="1.00:GpPPIe63N2I" youtube_id_1_0="GpPPIe63N2I"/>
+      </vertical>
+      <!-- Omit this for now. It's really not ready to go. -->
+      <!--vertical display_name="Citations" url_name="Citations">
+        <html display_name="Citations" filename="Citations_0" url_name="Citations_0"/>
+      </vertical-->
+    </sequential>
+
   </chapter>
   <wiki slug="edX.edX_Insider.Ongoing"/>
 </course>
