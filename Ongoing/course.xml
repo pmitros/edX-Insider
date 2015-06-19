@@ -16,40 +16,6 @@
       </vertical>
     </sequential>
 
-    <sequential format="Learning Sequence" graded="true" display_name="Tutorial-style learning sequences" url_name="Tutorial_style_learning_sequences">
-      <vertical display_name="Constructive learning continuum" url_name="Constructive_learning_continuum">
-        <html filename="Constructive_learning_continuum_html" url_name="Constructive_learning_continuum_html" display_name="Constructive learning continuum"/>
-        <problem url_name="Constructive_active_learning_example"/>
-        <html display_name="Reflection" filename="Reflection" url_name="Reflection"/>
-      </vertical>
-      <vertical display_name="Constructive learning explanation" url_name="Constructive_learning_explanation">
-        <html filename="Constructive_explain_html" url_name="Constructive_explain_html" display_name="Constructive/Active Learning Example" />
-        <problem url_name="Active_learning_example"/>
-        <html display_name="Another example" filename="Another_example_0" url_name="Another_example_0"/>
-      </vertical>
-      <vertical display_name="Active learning explanation" url_name="Active_learning_explanation">
-        <html display_name="Active learning explanation" filename="Active_learning_explanation_0" url_name="Active_learning_explanation_0"/>
-	<done display_name="Read active learning explanation" url_name="Read active learning explanation" align="right"/>
-      </vertical>
-      <vertical display_name="Applications to STEM" url_name="Applications_to_STEM">
-        <html display_name="Applications to STEM" filename="Applications_to_STEM_0" url_name="Applications_to_STEM_0"/>
-	<done display_name="Read applications to STEM" url_name="Read_applications_to_STEM" align="right"/>
-      </vertical>
-      <vertical display_name="Interactive" url_name="Interactive">
-        <html display_name="Interactive" filename="Interactive_0" url_name="Interactive_0"/>
-        <html filename="hsph_discover" url_name="hsph_discover" display_name="HSPH Interactive"/>
-	<done display_name="Use interactive" url_name="Use_interactive" align="right"/>
-      </vertical>
-      <vertical display_name="Conclusion_1" url_name="Analogues_1">
-        <html display_name="Conclusion: Analogs" filename="Analogs_0" url_name="Analogs_0"/>
-	<done display_name="Read conclusion 1" url_name="Read_conclusion_1" align="right"/>
-      </vertical>
-      <vertical display_name="Conclusion_2" url_name="Kolb">
-        <html display_name="Conclusion: Kolb" filename="flexible" url_name="Kolb"/>
-	<done display_name="Read conclusion 2" url_name="Read_conclusion_2" align="right"/>
-      </vertical>
-    </sequential>
-
     <sequential format="Learning Sequence" graded="true" display_name="Tutorial-style learning sequence: Examplar" url_name="Tutorial_style_learning_sequence_Examplar">
       <vertical display_name="Introduction" url_name="Introduction_0">
         <html display_name="Intro" filename="Intro_1" url_name="Intro_1"/>
@@ -98,6 +64,39 @@
       </vertical>
     </sequential>
 
+    <sequential format="Learning Sequence" graded="true" display_name="Tutorial-style learning sequences" url_name="Tutorial_style_learning_sequences">
+      <vertical display_name="Constructive learning continuum" url_name="Constructive_learning_continuum">
+        <html filename="Constructive_learning_continuum_html" url_name="Constructive_learning_continuum_html" display_name="Constructive learning continuum"/>
+        <problem url_name="Constructive_active_learning_example"/>
+        <html display_name="Reflection" filename="Reflection" url_name="Reflection"/>
+      </vertical>
+      <vertical display_name="Constructive learning explanation" url_name="Constructive_learning_explanation">
+        <html filename="Constructive_explain_html" url_name="Constructive_explain_html" display_name="Constructive/Active Learning Example" />
+        <problem url_name="Active_learning_example"/>
+        <html display_name="Another example" filename="Another_example_0" url_name="Another_example_0"/>
+      </vertical>
+      <vertical display_name="Active learning explanation" url_name="Active_learning_explanation">
+        <html display_name="Active learning explanation" filename="Active_learning_explanation_0" url_name="Active_learning_explanation_0"/>
+	<done display_name="Read active learning explanation" url_name="Read active learning explanation" align="right"/>
+      </vertical>
+      <vertical display_name="Applications to STEM" url_name="Applications_to_STEM">
+        <html display_name="Applications to STEM" filename="Applications_to_STEM_0" url_name="Applications_to_STEM_0"/>
+	<done display_name="Read applications to STEM" url_name="Read_applications_to_STEM" align="right"/>
+      </vertical>
+      <vertical display_name="Interactive" url_name="Interactive">
+        <html display_name="Interactive" filename="Interactive_0" url_name="Interactive_0"/>
+        <!--html filename="hsph_discover" url_name="hsph_discover" display_name="HSPH Interactive"/-->
+	<done display_name="Use interactive" url_name="Use_interactive" align="right"/>
+      </vertical>
+      <vertical display_name="Conclusion_1" url_name="Analogues_1">
+        <html display_name="Conclusion: Analogs" filename="Analogs_0" url_name="Analogs_0"/>
+	<done display_name="Read conclusion 1" url_name="Read_conclusion_1" align="right"/>
+      </vertical>
+      <!--vertical display_name="Conclusion_2" url_name="Kolb">
+        <html display_name="Conclusion: Kolb" filename="flexible" url_name="Kolb"/>
+	<done display_name="Read conclusion 2" url_name="Read_conclusion_2" align="right"/>
+      </vertical-->
+    </sequential>
 
     <vertical url_name="constructive_ora_exercise">
     </vertical>
