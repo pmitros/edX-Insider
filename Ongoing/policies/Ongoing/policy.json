@@ -1,19 +1,15 @@
 {
   "course/Ongoing": {
     "advanced_modules": [
-      "lti", 
-      "concept", 
       "done", 
-      "profile", 
       "recommender"
     ], 
-    "course_image": "anant_code.png", 
     "discussion_topics": {
       "General": {
-        "id": "i4x-edX-edX_Insider-course-edX_Insider"
+        "id": "i4x-edX-Learning_Sciences_101-course-Learning_Sciences_Demo"
       }
     }, 
-    "display_name": "edX Insider", 
+    "display_name": "Learning_Sciences_Demo", 
     "enrollment_start": "2014-03-01T04:00:00Z", 
     "graceperiod": "1 days", 
     "start": "2014-03-03T00:00:00Z", 
@@ -41,11 +37,6 @@
       {
         "name": "Progress", 
         "type": "progress"
-      }, 
-      {
-        "link": "/courses/edX/edX_Insider/Ongoing/courseware/Profile/Profile/", 
-        "name": "Profile", 
-        "type": "external_link"
       }
     ], 
     "xml_attributes": {
