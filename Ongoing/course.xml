@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <course advanced_modules="[&quot;done&quot;, &quot;recommender&quot;]" course="Learning_Science_Demo" display_name="edX Learning Science Demo Course" enrollment_start="2014-03-01T04:00:00Z" org="edX" start="2014-03-03T00:00:00Z" url_name="Ongoing">
-  <chapter display_name="edX Pedagogical Foundations: Constructive Learning" url_name="Week_2_Technology_enabled_constructive_learning">
+  <chapter display_name="Foundations: Constructive Learning" url_name="Week_2_Technology_enabled_constructive_learning">
     <sequential format="Learning Sequence" graded="true" display_name="Overview (go here first)" url_name="Overview_go_here_first">
       <vertical display_name="Module overview" url_name="Module_overview">
         <html display_name="Module overview" filename="Module_overview" url_name="Module_overview"/>
@@ -13,6 +13,13 @@
       <vertical display_name="Theory Intro" url_name="Thero_intro">
         <html filename="Theory_Intro" url_name="Theory_Intro" display_name="Introduction to the Theory"/>
 	<done display_name="Read ICAP overview" url_name="Read_ICAP_overview" align="right"/>
+	<discussion
+            discussion_category="Course Overview"
+            discussion_id="course_overview_component"
+            discussion_target="Course Overview"
+            display_name="Course Overview"
+            url_name="course_overview_discussion"
+	    />
       </vertical>
     </sequential>
 
@@ -61,19 +68,40 @@
       <vertical display_name="Some footnotes" url_name="Some_footnotes">
         <html display_name="Usage" filename="Usage" url_name="Usage"/>
 	<done display_name="Read endnotes/finish Pythagoras" url_name="Finish_Pythagoras" align="right"/>
+	<discussion
+            discussion_category="Constructive Learning"
+            discussion_id="constructive_learning_pythagoras"
+            discussion_target="Pythagorean Theorem"
+            display_name="Pythagorean Theorem"
+            url_name="pythagorean_discussion"
+	    />
       </vertical>
     </sequential>
 
-    <sequential format="Learning Sequence" graded="true" display_name="Tutorial-style learning sequences" url_name="Tutorial_style_learning_sequences">
+    <sequential format="Learning Sequence" graded="true" display_name="Tutorial-style learning sequences: Theory" url_name="Tutorial_style_learning_sequences">
       <vertical display_name="Constructive learning continuum" url_name="Constructive_learning_continuum">
         <html filename="Constructive_learning_continuum_html" url_name="Constructive_learning_continuum_html" display_name="Constructive learning continuum"/>
         <problem url_name="Constructive_active_learning_example"/>
         <html display_name="Reflection" filename="Reflection" url_name="Reflection"/>
+	<discussion
+            discussion_category="Constructive Learning"
+            discussion_id="constructive_learning_icap"
+            discussion_target="Why ICAP question"
+            display_name="Why ICAP question"
+            url_name="icap_discussion"
+	    />
       </vertical>
       <vertical display_name="Constructive learning explanation" url_name="Constructive_learning_explanation">
         <html filename="Constructive_explain_html" url_name="Constructive_explain_html" display_name="Constructive/Active Learning Example" />
         <problem url_name="Active_learning_example"/>
         <html display_name="Another example" filename="Another_example_0" url_name="Another_example_0"/>
+	<discussion
+            discussion_category="Constructive Learning"
+            discussion_id="constructive_learning_checkbox"
+            discussion_target="Why checkbox question"
+            display_name="Why checkbox question"
+            url_name="checkbox_discussion"
+	    />
       </vertical>
       <vertical display_name="Active learning explanation" url_name="Active_learning_explanation">
         <html display_name="Active learning explanation" filename="Active_learning_explanation_0" url_name="Active_learning_explanation_0"/>
@@ -87,10 +115,24 @@
         <html display_name="Interactive" filename="Interactive_0" url_name="Interactive_0"/>
         <!--html filename="hsph_discover" url_name="hsph_discover" display_name="HSPH Interactive"/-->
 	<done display_name="Use interactive" url_name="Use_interactive" align="right"/>
+	<discussion
+            discussion_category="Constructive Learning"
+            discussion_id="constructive_learning_interactive"
+            discussion_target="Interactive elements"
+            display_name="Interactive elements discussion"
+            url_name="interactive_discussion"
+	    />
       </vertical>
       <vertical display_name="Conclusion_1" url_name="Analogues_1">
         <html display_name="Conclusion: Analogs" filename="Analogs_0" url_name="Analogs_0"/>
 	<done display_name="Read conclusion 1" url_name="Read_conclusion_1" align="right"/>
+	<discussion
+            discussion_category="Constructive Learning"
+            discussion_id="constructive_learning_conclusion"
+            discussion_target="Concluding thoughts"
+            display_name="Concluding thoughts"
+            url_name="constructive_concluding_thoughts"
+	    />
       </vertical>
       <!--vertical display_name="Conclusion_2" url_name="Kolb">
         <html display_name="Conclusion: Kolb" filename="flexible" url_name="Kolb"/>
