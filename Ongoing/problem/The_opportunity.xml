@@ -1,0 +1,13 @@
+<problem display_name="The opportunity" markdown="&gt;&gt;If those folks were to be educated to where they might earn $10,000 per year, how much wealth would be created in the world?&lt;&lt;&#10;( ) Millions of dollars annually&#10;( ) Billions of dollars annually&#10;(x) Trillions of dollars annually {{ 5 billion * 10,000 dollars is 50 trillion dollars, or about four times the US GDP. We can argue about the exact number, but it's very, very large. That translates to access to basic medicine, clean water, and healthy food, as well as decreases in corruption and violence. Democracies only work with educated populations. We have the technology to do this today. To reach the same revenues as Apple -- the biggest tech company in the world -- we'd need to find a way to bring back about 0.5% of that.}}&#10;( ) Quadrillions of dollars annually" url_name="The_opportunity">
+<p display_name="The opportunity" url_name="The_opportunity_0">If those folks were to be educated to where they might earn $10,000 per year, how much wealth would be created in the world?</p>
+<multiplechoiceresponse display_name="The opportunity" url_name="The_opportunity_1">
+  <choicegroup label="If those folks were to be educated to where they might earn choicegroup0,000 per year, how much wealth would be created in the world?" type="MultipleChoice">
+    <choice correct="false">Millions of dollars annually</choice>
+    <choice correct="false">Billions of dollars annually</choice>
+    <choice correct="true">Trillions of dollars annually <choicehint>5 billion * 10,000 dollars is 50 trillion dollars, or about four times the US GDP. We can argue about the exact number, but it's very, very large. That translates to access to basic medicine, clean water, and healthy food, as well as decreases in corruption and violence. Democracies only work with educated populations. We have the technology to do this today. To reach the same revenues as Apple -- the biggest tech company in the world -- we'd need to find a way to bring back about 0.5% of that.</choicehint></choice>
+    <choice correct="false">Quadrillions of dollars annually</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+
+</problem>

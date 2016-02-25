@@ -1,0 +1,13 @@
+<problem display_name="Number of students" markdown="&gt;&gt;How many students earn a Bachelor's Degree in the US every year?&lt;&lt;&#10;( ) 16,000&#10;( ) 160,000&#10;(x) 1.6 million {{ Same source. About ten times as many world-wide. }}&#10;( ) 16 million&#10;" url_name="Number_of_students">
+<p display_name="Number of students" url_name="Number_of_students_0">How many students earn a Bachelor's Degree in the US every year?</p>
+<multiplechoiceresponse display_name="Number of students" url_name="Number_of_students_1">
+  <choicegroup label="How many students earn a Bachelor's Degree in the US every year?" type="MultipleChoice">
+    <choice correct="false">16,000</choice>
+    <choice correct="false">160,000</choice>
+    <choice correct="true">1.6 million <choicehint>Same source. About ten times as many world-wide.</choicehint></choice>
+    <choice correct="false">16 million</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+
+</problem>

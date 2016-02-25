@@ -1,6 +1,6 @@
 <problem display_name="Active learning example" url_name="Active_learning_example">
-  <p>Broadly speaking, what are good uses of problems in a learning sequence?</p>
-  <choiceresponse>
+  <p display_name="Active learning example" url_name="Active_learning_example_0">Broadly speaking, what are good uses of problems in a learning sequence?</p>
+  <choiceresponse display_name="Active learning example" url_name="Active_learning_example_1">
     <checkboxgroup direction="vertical" label="What's a good use of problems in a learning sequence?">
       <choice correct="true">To deliver information in a more active way. </choice>
       <choice correct="true">To continuously assess and monitor student understanding. (<a href="http://en.wikipedia.org/wiki/Formative_assessment">formative assessment</a>)</choice>

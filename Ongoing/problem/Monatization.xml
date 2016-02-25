@@ -1,0 +1,12 @@
+<problem display_name="Monatization" markdown="&gt;&gt;What is the typical fee for a recruiter/corporate headhunter?&lt;&lt;&#10;( ) $100-$2000&#10;(x) $1000-$20,000 {{ About 1-2 months salary. If a student is connected to a job once, we end up with perhaps 10% of tuition. We need about 10x the students of a normal school to cover tuition. }}&#10;( ) $20,000-$100,000&#10;" url_name="Monatization">
+<p display_name="Monatization" url_name="Monatization_0">What is the typical fee for a recruiter/corporate headhunter?</p>
+<multiplechoiceresponse display_name="Monatization" url_name="Monatization_1">
+  <choicegroup label="What is the typical fee for a recruiter/corporate headhunter?" type="MultipleChoice">
+    <choice correct="false">$100-$2000</choice>
+    <choice correct="true">$1000-$20,000 <choicehint>About 1-2 months salary. If a student is connected to a job once, we end up with perhaps 10% of tuition. We need about 10x the students of a normal school to cover tuition.</choicehint></choice>
+    <choice correct="false">$20,000-$100,000</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+
+</problem>

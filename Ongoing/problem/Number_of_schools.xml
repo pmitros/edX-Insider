@@ -1,0 +1,15 @@
+<problem display_name="Number of schools" markdown="This section will give a few numbers to give an idea of the market opportunity.&#10;&#10;&gt;&gt;Approximately how many Title IV degree-granting instutions are there in the US? &lt;&lt;&#10;( ) 50&#10;( ) 500&#10;(x) 5000  {{ 4706, according to https://nces.ed.gov/fastfacts/display.asp?id=84 }}&#10;( ) 50,000&#10;" url_name="Number_of_schools">
+<p display_name="Number of schools" url_name="Number_of_schools_0">This section will give a few numbers to give an idea of the market opportunity.</p>
+
+<p display_name="Number of schools" url_name="Number_of_schools_1">Approximately how many Title IV degree-granting instutions are there in the US? </p>
+<multiplechoiceresponse display_name="Number of schools" url_name="Number_of_schools_2">
+  <choicegroup label="Approximately how many Title IV degree-granting instutions are there in the US? " type="MultipleChoice">
+    <choice correct="false">50</choice>
+    <choice correct="false">500</choice>
+    <choice correct="true">5000 <choicehint>4706, according to https://nces.ed.gov/fastfacts/display.asp?id=84</choicehint></choice>
+    <choice correct="false">50,000</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+
+</problem>

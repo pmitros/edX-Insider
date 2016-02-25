@@ -1,0 +1,13 @@
+<problem display_name="The problem" markdown="&gt;&gt;This is all ballparks, but about how many people in the world don't have access to education, and make minimal money (less than 10 dollars per day)?&lt;&lt;&#10;( ) A million&#10;( ) A few hundred million&#10;(x) A few billion {{ My best guess is 5 billion. }}&#10;( ) Tens of billions&#10;" url_name="The_problem">
+<p display_name="The problem" url_name="The_problem_0">This is all ballparks, but about how many people in the world don't have access to education, and make minimal money (less than 10 dollars per day)?</p>
+<multiplechoiceresponse display_name="The problem" url_name="The_problem_1">
+  <choicegroup label="This is all ballparks, but about how many people in the world don't have access to education, and make minimal money (less than 10 dollars per day)?" type="MultipleChoice">
+    <choice correct="false">A million</choice>
+    <choice correct="false">A few hundred million</choice>
+    <choice correct="true">A few billion <choicehint>My best guess is 5 billion.</choicehint></choice>
+    <choice correct="false">Tens of billions</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+
+</problem>

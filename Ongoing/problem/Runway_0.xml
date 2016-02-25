@@ -1,0 +1,60 @@
+<problem display_name="Runway" markdown="A high-quality MOOC probably costs about $500,000 to create. This can be much higher with heavy investment in production-values (e.g. professionally-produced video), which translate into higher perception of quality, but not more learning. All of the content in this course was filmed with a cell phone camera, a $5 microphone (but correctly used), and edited with consumer-grade tools. It can be a bit lower without custom technology development (which would generally reduce learning). Given that, how much runway would we need for:&#10;&#10;&gt;&gt; A Master's program consisting of eight courses? &lt;&lt;&#10;(x) $4 million&#10;( ) $10 million&#10;( ) $16 million&#10;( ) $1 billion&#10;( ) $5 billion&#10;&#10;&gt;&gt; A Master's program consisting of twenty courses, where the student picks eight? &lt;&lt;&#10;( ) $4 million&#10;(x) $10 million&#10;( ) $16 million&#10;( ) $1 billion&#10;( ) $5 billion&#10;&#10;&gt;&gt; A minimal B.S. program consisting of thirty two courses? &lt;&lt;&#10;( ) $4 million&#10;( ) $10 million&#10;(x) $16 million&#10;( ) $1 billion&#10;( ) $5 billion&#10;&#10;&gt;&gt; A complete undergraduate experience consisting of 2000 courses (as many as MIT)? &lt;&lt;&#10;( ) $4 million&#10;( ) $10 million&#10;( ) $16 million&#10;(x) $1 billion&#10;( ) $5 billion&#10;&#10;&gt;&gt; A complete undergraduate experience consisting of 10,000 courses (MIT+law+medicine+education+nursing+agriculture+...)? &lt;&lt;&#10;( ) $4 million&#10;( ) $10 million&#10;( ) $16 million&#10;( ) $1 billion&#10;(x) $5 billion&#10;" url_name="Runway_0">
+<p display_name="Runway" url_name="Runway_1">A high-quality MOOC probably costs about $500,000 to create. This can be much higher with heavy investment in production-values (e.g. professionally-produced video), which translate into higher perception of quality, but not more learning. All of the content in this course was filmed with a cell phone camera, a $5 microphone (but correctly used), and edited with consumer-grade tools. It can be a bit lower without custom technology development (which would generally reduce learning). Given that, how much runway would we need for:</p>
+
+<p display_name="Runway" url_name="Runway_2"> A Master's program consisting of eight courses? </p>
+<multiplechoiceresponse display_name="Runway" url_name="Runway_3">
+  <choicegroup label=" A Master's program consisting of eight courses? " type="MultipleChoice">
+    <choice correct="true">$4 million</choice>
+    <choice correct="false">$10 million</choice>
+    <choice correct="false">$16 million</choice>
+    <choice correct="false">$1 billion</choice>
+    <choice correct="false">$5 billion</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p display_name="Runway" url_name="Runway_4"> A Master's program consisting of twenty courses, where the student picks eight? </p>
+<multiplechoiceresponse display_name="Runway" url_name="Runway_5">
+  <choicegroup label=" A Master's program consisting of twenty courses, where the student picks eight? " type="MultipleChoice">
+    <choice correct="false">$4 million</choice>
+    <choice correct="true">$10 million</choice>
+    <choice correct="false">$16 million</choice>
+    <choice correct="false">$1 billion</choice>
+    <choice correct="false">$5 billion</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p display_name="Runway" url_name="Runway_6"> A minimal B.S. program consisting of thirty two courses? </p>
+<multiplechoiceresponse display_name="Runway" url_name="Runway_7">
+  <choicegroup label=" A minimal B.S. program consisting of thirty two courses? " type="MultipleChoice">
+    <choice correct="false">$4 million</choice>
+    <choice correct="false">$10 million</choice>
+    <choice correct="true">$16 million</choice>
+    <choice correct="false">$1 billion</choice>
+    <choice correct="false">$5 billion</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p display_name="Runway" url_name="Runway_8"> A complete undergraduate experience consisting of 2000 courses (as many as MIT)? </p>
+<multiplechoiceresponse display_name="Runway" url_name="Runway_9">
+  <choicegroup label=" A complete undergraduate experience consisting of 2000 courses (as many as MIT)? " type="MultipleChoice">
+    <choice correct="false">$4 million</choice>
+    <choice correct="false">$10 million</choice>
+    <choice correct="false">$16 million</choice>
+    <choice correct="true">$1 billion</choice>
+    <choice correct="false">$5 billion</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p display_name="Runway" url_name="Runway_10"> A complete undergraduate experience consisting of 10,000 courses (MIT+law+medicine+education+nursing+agriculture+...)? </p>
+<multiplechoiceresponse display_name="Runway" url_name="Runway_11">
+  <choicegroup label=" A complete undergraduate experience consisting of 10,000 courses (MIT+law+medicine+education+nursing+agriculture+...)? " type="MultipleChoice">
+    <choice correct="false">$4 million</choice>
+    <choice correct="false">$10 million</choice>
+    <choice correct="false">$16 million</choice>
+    <choice correct="false">$1 billion</choice>
+    <choice correct="true">$5 billion</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+
+</problem>

@@ -1,0 +1,13 @@
+<problem display_name="Comparative economics" markdown="&gt;&gt;If an at-scale on-line institution had double the costs of a residential institution for teaching staff (fully automated courses cost much more to develop, but less to administer), and made 10% of the money per student, what portion of the US market would it need to reach to be sustainable?&lt;&lt;&#10;&#10;( ) 0.04% {{ That's actually about the right number for the world market. }}&#10;(x) 0.4% {{ Yup. 10 * 2 / 4706. It'd be 0.04% if we did this internationally. }}&#10;( ) 4%&#10;( ) 40%&#10;" url_name="Comparative_economics">
+<p display_name="Comparative economics" url_name="Comparative_economics_0">If an at-scale on-line institution had double the costs of a residential institution for teaching staff (fully automated courses cost much more to develop, but less to administer), and made 10% of the money per student, what portion of the US market would it need to reach to be sustainable?</p>
+<multiplechoiceresponse display_name="Comparative economics" url_name="Comparative_economics_1">
+  <choicegroup label="If an at-scale on-line institution had double the costs of a residential institution for teaching staff (fully automated courses cost much more to develop, but less to administer), and made 10% of the money per student, what portion of the US market would it need to reach to be sustainable?" type="MultipleChoice">
+    <choice correct="false">0.04% <choicehint>That's actually about the right number for the world market.</choicehint></choice>
+    <choice correct="true">0.4% <choicehint>Yup. 10 * 2 / 4706. It'd be 0.04% if we did this internationally.</choicehint></choice>
+    <choice correct="false">4%</choice>
+    <choice correct="false">40%</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+
+</problem>

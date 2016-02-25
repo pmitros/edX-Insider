@@ -1,8 +1,8 @@
 <problem display_name="Label similar triangles" markdown="null" url_name="Label_similar_triangles_0">
-  <text>
+  <text display_name="Label similar triangles" url_name="Label_similar_triangles_3">
     <p>Please label the sides of the four right triangles that form the two squares, according the right triangle model given here.</p>
   </text>
-  <customresponse>
+  <customresponse display_name="Label similar triangles" url_name="Label_similar_triangles_4">
     <drag_and_drop_input img="/static/pythagoras_dnd.png" label_bg_color="rgb(222, 139, 238)" no_labels="true" one_per_target="true" target_outline="true">
       <draggable can_reuse="true" id="1" label="a" />
       <draggable can_reuse="true" id="2" label="b" />

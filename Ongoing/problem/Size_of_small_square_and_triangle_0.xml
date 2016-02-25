@@ -1,14 +1,14 @@
 <problem display_name="Size of small square and triangle" markdown="null" url_name="Size_of_small_square_and_triangle_0">
-  <center>
+  <center display_name="Size of small square and triangle" url_name="Size_of_small_square_and_triangle_3">
     <img src="/static/pythagoras_size_of_square_2.png" />
   </center>
-  <p> What is the size of the small square? </p>
-  <formularesponse answer="c^2" samples="c@1:2#10" type="cs">
+  <p display_name="Size of small square and triangle" url_name="Size_of_small_square_and_triangle_4"> What is the size of the small square? </p>
+  <formularesponse answer="c^2" display_name="Size of small square and triangle" samples="c@1:2#10" type="cs" url_name="Size_of_small_square_and_triangle_5">
     <responseparam default="0.00001" type="tolerance" />
     <formulaequationinput size="40" />
   </formularesponse>
-  <p> What is the size of the triangle?</p>
-  <formularesponse answer="(a*b)/2" samples="a,b@1,2:3,4#10" type="cs">
+  <p display_name="Size of small square and triangle" url_name="Size_of_small_square_and_triangle_6"> What is the size of the triangle?</p>
+  <formularesponse answer="(a*b)/2" display_name="Size of small square and triangle" samples="a,b@1,2:3,4#10" type="cs" url_name="Size_of_small_square_and_triangle_7">
     <responseparam default="0.00001" type="tolerance" />
     <formulaequationinput size="40" />
   </formularesponse>

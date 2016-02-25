@@ -1,49 +1,51 @@
 {
-  "course/Ongoing": {
-    "advanced_modules": [
-      "done", 
-      "recommender"
-    ], 
-    "discussion_topics": {
-      "General": {
-        "id": "i4x-edX-Learning_Sciences_101-course-Learning_Sciences_Demo"
-      }
-    }, 
-    "display_name": "Learning_Sciences_Demo", 
-    "enrollment_start": "2014-03-01T04:00:00Z", 
-    "graceperiod": "1 days", 
-    "start": "2014-03-03T00:00:00Z", 
-    "tabs": [
-      {
-        "name": "Courseware", 
-        "type": "courseware"
-      }, 
-      {
-        "name": "Course Info", 
-        "type": "course_info"
-      }, 
-      {
-        "name": "Textbooks", 
-        "type": "textbooks"
-      }, 
-      {
-        "name": "Discussion", 
-        "type": "discussion"
-      }, 
-      {
-        "name": "Wiki", 
-        "type": "wiki"
-      }, 
-      {
-        "name": "Progress", 
-        "type": "progress"
-      }
-    ], 
-    "xml_attributes": {
-      "filename": [
-        "", 
-        null
-      ]
+    "course/course": {
+        "advanced_modules": [
+            "done", 
+            "recommender", 
+            "poll", 
+            "word_cloud"
+        ], 
+        "discussion_topics": {
+            "General": {
+                "id": "i4x-edX-Learning_Sciences_101-course-Learning_Sciences_Demo"
+            }
+        }, 
+        "display_name": "Learning_Sciences_Demo", 
+        "enrollment_start": "2014-03-01T04:00:00Z", 
+        "graceperiod": "1 days", 
+        "start": "2014-03-03T00:00:00Z", 
+        "tabs": [
+            {
+                "name": "Home", 
+                "type": "course_info"
+            }, 
+            {
+                "name": "Course", 
+                "type": "courseware"
+            }, 
+            {
+                "name": "Textbooks", 
+                "type": "textbooks"
+            }, 
+            {
+                "name": "Discussion", 
+                "type": "discussion"
+            }, 
+            {
+                "name": "Wiki", 
+                "type": "wiki"
+            }, 
+            {
+                "name": "Progress", 
+                "type": "progress"
+            }
+        ], 
+        "xml_attributes": {
+            "filename": [
+                "", 
+                null
+            ]
+        }
     }
-  }
 }

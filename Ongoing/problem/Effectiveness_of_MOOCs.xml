@@ -1,0 +1,16 @@
+<problem display_name="Effectiveness of MOOCs" markdown="A standard way of measuring learning is called learning gains. Traditional lecture-based university physics courses have learning gains of 0.23. University physics courses based on blended learning have learning gains of about 0.48. That's based on a survey of over 60 physics courses, with a total of over 6000 students (Hake 1998). &#10;&#10;&gt;&gt;What do you think are the learning gains for a well-designed edX physics MOOC?&lt;&lt;&#10;( ) 0.1 -- A fair bit of learning happens, but we still need humans for it to happen well. &#10;( ) 0.2 -- Almost as good as most residential courses&#10;(x) 0.31 -- Better than lecture-based courses, but not as good as blended courses with fantastic instructors and well-designed in-class activities {{ Yup. This was analyzed very carefully, and we're already beating traditional residential courses (Pritchard 14). Unsurprisingly, we're not yet on par with ones which combine technology with people. But we're on our way there. }}&#10;( ) 0.5 -- About as good as blended courses&#10;( ) 0.64 -- Better than either" url_name="Effectiveness_of_MOOCs">
+<p display_name="Effectiveness of MOOCs" url_name="Effectiveness_of_MOOCs_0">A standard way of measuring learning is called learning gains. Traditional lecture-based university physics courses have learning gains of 0.23. University physics courses based on blended learning have learning gains of about 0.48. That's based on a survey of over 60 physics courses, with a total of over 6000 students (Hake 1998). </p>
+
+<p display_name="Effectiveness of MOOCs" url_name="Effectiveness_of_MOOCs_1">What do you think are the learning gains for a well-designed edX physics MOOC?</p>
+<multiplechoiceresponse display_name="Effectiveness of MOOCs" url_name="Effectiveness_of_MOOCs_2">
+  <choicegroup label="What do you think are the learning gains for a well-designed edX physics MOOC?" type="MultipleChoice">
+    <choice correct="false">0.1 -- A fair bit of learning happens, but we still need humans for it to happen well.</choice>
+    <choice correct="false">0.2 -- Almost as good as most residential courses</choice>
+    <choice correct="true">0.31 -- Better than lecture-based courses, but not as good as blended courses with fantastic instructors and well-designed in-class activities <choicehint>Yup. This was analyzed very carefully, and we're already beating traditional residential courses (Pritchard 14). Unsurprisingly, we're not yet on par with ones which combine technology with people. But we're on our way there.</choicehint></choice>
+    <choice correct="false">0.5 -- About as good as blended courses</choice>
+    <choice correct="false">0.64 -- Better than either</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+
+</problem>

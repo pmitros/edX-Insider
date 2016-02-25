@@ -1,0 +1,13 @@
+<problem display_name="Connecting US students to employers" markdown="&gt;&gt;If we reached 160,000 students per year, and connected them to a job once in their life, with a 1000 dollar headhunting fee, what would our annual revenues be?&lt;&lt;&#10;( ) $16 million&#10;(x) $160 million {{ Enough to run a sustainable 501(c)3. Note that in an ed-tech platform, we have the potential to have a lot of data on how well students solve complex problems, work in groups, and the potential to continue to engage and track students as they continue to learn throughout their careers. }}&#10;( ) $1.6 billion&#10;( ) $16 billion" url_name="Connecting_US_students_to_employers">
+<p display_name="Connecting US students to employers" url_name="Connecting_US_students_to_employers_0">If we reached 160,000 students per year, and connected them to a job once in their life, with a 1000 dollar headhunting fee, what would our annual revenues be?</p>
+<multiplechoiceresponse display_name="Connecting US students to employers" url_name="Connecting_US_students_to_employers_1">
+  <choicegroup label="If we reached 160,000 students per year, and connected them to a job once in their life, with a 1000 dollar headhunting fee, what would our annual revenues be?" type="MultipleChoice">
+    <choice correct="false">$16 million</choice>
+    <choice correct="true">$160 million <choicehint>Enough to run a sustainable 501(c)3. Note that in an ed-tech platform, we have the potential to have a lot of data on how well students solve complex problems, work in groups, and the potential to continue to engage and track students as they continue to learn throughout their careers.</choicehint></choice>
+    <choice correct="false">$1.6 billion</choice>
+    <choice correct="false">$16 billion</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+
+</problem>

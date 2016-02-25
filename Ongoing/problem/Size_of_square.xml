@@ -1,14 +1,15 @@
 <problem display_name="Size of square" markdown="null" url_name="Size_of_square">
-  <center>
+  <center display_name="Size of square" url_name="Size_of_square_0">
     <img src="/static/pythagoras_size_of_square.png" />
   </center>
-  <p> What is the length of one side of the large square? </p>
-  <formularesponse answer="a+b" samples="a,b@1,2:3,4#10" type="cs">
+  <p display_name="Size of square" url_name="Size_of_square_1"> A note on notation: If you haven't done math in edX before, use * is for multiplication, and ^ for exponents. In this problem, use lower-case for the variables. </p>
+  <p display_name="Size of square" url_name="Size_of_square_2"> What is the length of one side of the large square? </p>
+  <formularesponse answer="a+b" display_name="Size of square" samples="a,b@1,2:3,4#10" type="cs" url_name="Size_of_square_3">
     <responseparam default="0.00001" type="tolerance" />
     <formulaequationinput size="40" />
   </formularesponse>
-  <p> What is the area of the large square, in terms of your answer to the previous question?</p>
-  <formularesponse answer="(a+b)^2" samples="a,b@1,2:3,4#10" type="cs">
+  <p display_name="Size of square" url_name="Size_of_square_4"> What is the area of the large square, in terms of your answer to the previous question?</p>
+  <formularesponse answer="(a+b)^2" display_name="Size of square" samples="a,b@1,2:3,4#10" type="cs" url_name="Size_of_square_5">
     <responseparam default="0.00001" type="tolerance" />
     <formulaequationinput size="40" />
   </formularesponse>

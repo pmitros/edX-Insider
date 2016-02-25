@@ -1,9 +1,9 @@
 <problem display_name="Size of big square in terms of parts" markdown="null" url_name="Size_of_big_square_in_terms_of_parts_0">
-  <center>
+  <center display_name="Size of big square in terms of parts" url_name="Size_of_big_square_in_terms_of_parts_1">
     <img src="/static/pythagoras_size_of_square_2.png" />
   </center>
-  <p> What is the size of the large square as a sum of the small square and triangles? </p>
-  <formularesponse answer="c^2+2*a*b" samples="a,b,c@1,2,3:4,5,6#10" type="cs">
+  <p display_name="Size of big square in terms of parts" url_name="Size_of_big_square_in_terms_of_parts_2"> What is the size of the large square as a sum of the small square and triangles? </p>
+  <formularesponse answer="c^2+2*a*b" display_name="Size of big square in terms of parts" samples="a,b,c@1,2,3:4,5,6#10" type="cs" url_name="Size_of_big_square_in_terms_of_parts_3">
     <responseparam default="0.00001" type="tolerance" />
     <formulaequationinput size="40" />
   </formularesponse>
