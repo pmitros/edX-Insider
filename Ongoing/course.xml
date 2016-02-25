@@ -1,177 +1,103 @@
 <?xml version="1.0" ?>
 <course advanced_modules="[&quot;done&quot;, &quot;recommender&quot;, &quot;poll&quot;, &quot;word_cloud&quot;]" course="regent101" display_name="Learning_Sciences_Demo" enrollment_start="&quot;2014-03-01T04:00:00+00:00&quot;" graceperiod="1 days" license="creative-commons: ver=4.0 BY SA" org="pm" start="&quot;2014-03-03T00:00:00+00:00&quot;" url_name="course">
-  
-  
   <chapter display_name="Foundations: Constructive Learning" url_name="Week_2_Technology_enabled_constructive_learning">
-    
-  
     <sequential display_name="Overview (go here first)" format="Learning Sequence" graded="true" url_name="Overview_go_here_first">
-      
-  
       <vertical display_name="Module overview" url_name="Module_overview">
-        
-  
         <html display_name="Module overview" filename="Module_overview" url_name="Module_overview"/>
         <done align="right" display_name="Read week overview" url_name="Read_week_overview" xblock-family="xblock.v1"/>
-        
-
       </vertical>
       <vertical display_name="Expectations" url_name="Expectations">
-        
-  
         <html display_name="Expectations Overview" filename="Expectations_HTML" url_name="Expectations_HTML"/>
         <done align="right" display_name="Read expectations overview" url_name="Read_Expectations_overview" xblock-family="xblock.v1"/>
-        
-
       </vertical>
       <vertical display_name="Theory Intro" url_name="Thero_intro">
-        
-  
         <html display_name="Introduction to the Theory" filename="Theory_Intro" url_name="Theory_Intro"/>
         <done align="right" display_name="Read ICAP overview" url_name="Read_ICAP_overview" xblock-family="xblock.v1"/>
-        
-  
         <discussion discussion_category="Course Overview" discussion_id="course_overview_component" discussion_target="Course Overview" display_name="Course Overview" url_name="course_overview_discussion"/>
       </vertical>
     </sequential>
-    <sequential display_name="Tutorial-style learning sequence: Examplar" format="Learning Sequence" graded="true" url_name="Tutorial_style_learning_sequence_Examplar">
-      
-  
+    <sequential display_name="Tutorial-style learning sequence: Examplar" format="Learning Sequence" graded="true" url_name="Tutorial_style_learning_sequence_Examplar">  
       <vertical display_name="Introduction" url_name="Introduction_0">
-        
-  
         <html display_name="Intro" filename="Intro_1" url_name="Intro_1"/>
         <done align="right" display_name="Read intro part 2" url_name="Read_intro_part_2" xblock-family="xblock.v1"/>
-        
-
       </vertical>
       <vertical display_name="Overview of theorem and proof strategy" url_name="Overview_of_theorem_and_proof_strategy">
-        
-  
         <video display_name="Overview of theorem and proof strategy" download_video="false" sub="LlhGxq7diSM" url_name="Overview_of_theorem_and_proof_strategy_0" youtube="1.00:LlhGxq7diSM" youtube_id_1_0="LlhGxq7diSM"/>
         <html display_name="Video summary" filename="Video_summary" url_name="Video_summary"/>
       </vertical>
       <vertical display_name="Label similar triangles" url_name="Label_similar_triangles">
-        
-  
         <problem url_name="Label_similar_triangles_0"/>
       </vertical>
       <vertical display_name="Label similar triangles" url_name="Label_similar_triangles_1">
-        
-  
         <video display_name="Label similar triangles" download_video="false" sub="-JqhCMiPkoA" url_name="Label_similar_triangles_2" youtube="1.00:-JqhCMiPkoA" youtube_id_1_0="-JqhCMiPkoA"/>
         <html display_name="Video summary" filename="Video_summary_0" url_name="Video_summary_0"/>
       </vertical>
       <vertical display_name="Area of big square" url_name="Area_of_big_square">
-        
-  
         <problem url_name="Size_of_square"/>
       </vertical>
       <vertical display_name="Area of big square" url_name="Area_of_big_square_0">
-        
-  
         <video display_name="Area of big square" download_video="false" sub="A0_yrUnTrMI" url_name="Area_of_big_square_1" youtube="1.00:A0_yrUnTrMI" youtube_id_1_0="A0_yrUnTrMI"/>
         <html display_name="Video Summary" filename="Video_Summary" url_name="Video_Summary"/>
       </vertical>
       <vertical display_name="Size of small square and triangle" url_name="Size_of_small_square_and_triangle">
-        
-  
         <problem url_name="Size_of_small_square_and_triangle_0"/>
       </vertical>
       <vertical display_name="Size of small square and triangle" url_name="Size_of_small_square_and_triangle_1">
-        
-  
         <video display_name="Size of small square and triangle" download_video="false" sub="bOFAKQpXC0M" url_name="Size_of_small_square_and_triangle_2" youtube="1.00:bOFAKQpXC0M" youtube_id_1_0="bOFAKQpXC0M"/>
         <html display_name="Video Summary" filename="Video_Summary_0" url_name="Video_Summary_0"/>
       </vertical>
       <vertical display_name="Size of big square in terms of parts " url_name="Size_of_big_square_in_terms_of_parts">
-        
-  
         <problem url_name="Size_of_big_square_in_terms_of_parts_0"/>
       </vertical>
       <vertical display_name="Size of little square and triangle" url_name="Size_of_little_square_and_triangle">
-        
-  
         <video display_name="Size of little square and triangle" download_video="false" sub="098Y8H8A0s4" url_name="Size_of_little_square_and_triangle_0" youtube="1.00:098Y8H8A0s4" youtube_id_1_0="098Y8H8A0s4"/>
         <html display_name="Size of little square and triangle" filename="pythag_final" url_name="pythag_final"/>
       </vertical>
       <vertical display_name="Final equation and conclusion" url_name="Final_equation_and_conclusion">
-        
-  
         <video display_name="Final equation and conclusion" download_video="false" sub="MweN0Gmd0jY" url_name="Final_equation_and_conclusion_0" youtube="1.00:MweN0Gmd0jY" youtube_id_1_0="MweN0Gmd0jY"/>
         <html display_name="Video summary" filename="Video_summary_1" url_name="Video_summary_1"/>
       </vertical>
       <vertical display_name="Some footnotes" url_name="Some_footnotes">
-        
-  
         <html display_name="Usage" filename="Usage" url_name="Usage"/>
         <done align="right" display_name="Read endnotes/finish Pythagoras" url_name="Finish_Pythagoras" xblock-family="xblock.v1"/>
-        
-  
         <discussion discussion_category="Constructive Learning" discussion_id="constructive_learning_pythagoras" discussion_target="Pythagorean Theorem" display_name="Pythagorean Theorem" url_name="pythagorean_discussion"/>
       </vertical>
     </sequential>
-    <sequential display_name="Tutorial-style learning sequences: Theory" format="Learning Sequence" graded="true" url_name="Tutorial_style_learning_sequences">
-      
-  
+    <sequential display_name="Tutorial-style learning sequences: Theory" format="Learning Sequence" graded="true" url_name="Tutorial_style_learning_sequences">  
       <vertical display_name="Constructive learning continuum" url_name="Constructive_learning_continuum">
-        
-  
         <html display_name="Constructive learning continuum" filename="Constructive_learning_continuum_html" url_name="Constructive_learning_continuum_html"/>
         <problem url_name="Constructive_active_learning_example"/>
         <html display_name="Reflection" filename="Reflection" url_name="Reflection"/>
         <discussion discussion_category="Constructive Learning" discussion_id="constructive_learning_icap" discussion_target="Why ICAP question" display_name="Why ICAP question" url_name="icap_discussion"/>
       </vertical>
       <vertical display_name="Constructive learning explanation" url_name="Constructive_learning_explanation">
-        
-  
         <html display_name="Constructive/Active Learning Example" filename="Constructive_explain_html" url_name="Constructive_explain_html"/>
         <problem url_name="Active_learning_example"/>
         <html display_name="Another example" filename="Another_example_0" url_name="Another_example_0"/>
         <discussion discussion_category="Constructive Learning" discussion_id="constructive_learning_checkbox" discussion_target="Why checkbox question" display_name="Why checkbox question" url_name="checkbox_discussion"/>
       </vertical>
       <vertical display_name="Active learning explanation" url_name="Active_learning_explanation">
-        
-  
         <html display_name="Active learning explanation" filename="Active_learning_explanation_0" url_name="Active_learning_explanation_0"/>
       </vertical>
       <vertical display_name="Applications to STEM" url_name="Applications_to_STEM">
-        
-  
         <html display_name="Applications to STEM" filename="Applications_to_STEM_0" url_name="Applications_to_STEM_0"/>
         <done align="right" display_name="Read applications to STEM" url_name="Read_applications_to_STEM" xblock-family="xblock.v1"/>
-        
-
       </vertical>
       <vertical display_name="Interactive" url_name="Interactive">
-        
-  
         <html display_name="Interactive" filename="Interactive_0" url_name="Interactive_0"/>
         <done align="right" display_name="Use interactive" url_name="Use_interactive" xblock-family="xblock.v1"/>
-        
-  
         <discussion discussion_category="Constructive Learning" discussion_id="constructive_learning_interactive" discussion_target="Interactive elements" display_name="Interactive elements discussion" url_name="interactive_discussion"/>
       </vertical>
       <vertical display_name="Conclusion_1" url_name="Analogues_1">
-        
-  
         <html display_name="Conclusion: Analogs" filename="Analogs_0" url_name="Analogs_0"/>
         <done align="right" display_name="Read conclusion 1" url_name="Read_conclusion_1" xblock-family="xblock.v1"/>
-        
-  
         <discussion discussion_category="Constructive Learning" discussion_id="constructive_learning_conclusion" discussion_target="Concluding thoughts" display_name="Concluding thoughts" url_name="constructive_concluding_thoughts"/>
       </vertical>
     </sequential>
   </chapter>
-  <chapter display_name="Strategy" url_name="Strategy">
-    
-  
-    <sequential display_name="A few numbers...." url_name="A_few_numbers">
-      
-  
+  <chapter display_name="Strategy" url_name="Strategy">  
+    <sequential display_name="A few numbers...." url_name="A_few_numbers">  
       <vertical display_name="Market size" url_name="Market_size">
-        
-  
         <html display_name="Overview" filename="Overview" url_name="Overview"/>
         <problem url_name="Number_of_schools"/>
         <problem url_name="Comparative_economics"/>
@@ -183,8 +109,6 @@
         <problem url_name="Effectiveness_of_MOOCs"/>
       </vertical>
       <vertical display_name="Where are we going?" url_name="Where_are_we_going">
-        
-  
         <poll answers="[
   [
     &quot;R&quot;,
@@ -219,8 +143,6 @@
     }
   ]
 ]" display_name="Who will be left standing?" feedback="" max_submissions="1" private_results="false" question="Of the 5000 schools in the US, how many do you think will still be around in 20 years?" url_name="Who_will_be_left_standing" xblock-family="xblock.v1"/>
-        
-  
         <poll answers="[
   [
     &quot;R&quot;,
@@ -279,29 +201,19 @@
     }
   ]
 ]" display_name="Who do you think will win?" feedback="Most people answer with the type of institution they're from." max_submissions="1" private_results="false" question="Who do you think will create the digital content?" url_name="Who_do_you_think_will_win" xblock-family="xblock.v1"/>
-        
-
       </vertical>
       <vertical display_name="What should we talk about?" url_name="What_should_we_talk_about">
-        
-  
         <html display_name="Agenda" filename="Agenda" url_name="Agenda"/>
         <word_cloud display_name="What should we discuss when I visit" url_name="What_should_we_discuss_when_I_visit"/>
         <discussion discussion_target="What should we discuss when I visit" display_name="What should we talk about?" url_name="What_should_we_talk_about_0"/>
       </vertical>
       <vertical display_name="Runway" url_name="Runway">
-        
-  
         <problem url_name="Runway_0"/>
       </vertical>
     </sequential>
   </chapter>
-  <chapter display_name="Pedagogical Foundations: Mastery Learning" hide_from_toc="true" url_name="Mastery_Learning">
-    
-  
-    <sequential display_name="Theoretical Foundations" url_name="Theoretical_Foundations">
-      
-  
+  <chapter display_name="Pedagogical Foundations: Mastery Learning" hide_from_toc="true" url_name="Mastery_Learning">  
+    <sequential display_name="Theoretical Foundations" url_name="Theoretical_Foundations">  
       <html display_name="Intro" filename="Intro" url_name="Intro"/>
       <html display_name="Gamification" filename="Gamification" url_name="Gamification"/>
       <html display_name="Mastery Learning" filename="Mastery_Learning" url_name="Mastery_Learning"/>
@@ -310,12 +222,8 @@
       <html display_name="Metacognition" filename="Metacognition" url_name="Metacognition"/>
     </sequential>
   </chapter>
-  <chapter display_name="Bonus Content" url_name="bonus_content">
-    
-  
-    <sequential display_name="Community of Practice Videos" url_name="cop_videos">
-      
-  
+  <chapter display_name="Bonus Content" url_name="bonus_content">  
+    <sequential display_name="Community of Practice Videos" url_name="cop_videos">  
       <video display_name="May 21 | HarvardX Research: Future Directions" download_video="false" url_name="May_21_HarvardX_Research_Future_Directions" youtube_id="1.00:3DuXOWlmbAx9M"/>
       <video display_name="May 23 | edX Product Update" download_video="false" url_name="May_23_edX_Product_Update" youtube_id="1.00:3DZW9kCl2Vd3c"/>
       <video display_name="June 13 | Peer Grading Overview" download_video="false" url_name="June_13_Peer_Grading_Overview" youtube_id="1.00:3Drc2tZcWNNKU"/>
@@ -336,27 +244,17 @@
       <video display_name="November 12 | Practicing Community: How edX does Open Source" download_video="false" url_name="November_12_Practicing_Community_How_edX_does_Open_Source" youtube_id="1.00:3D7ud6i98teSE"/>
       <video display_name="December 17 | College (Un)Bound: The Future of Higher Education" download_video="false" url_name="December_17_College_Un_Bound_The_Future_of_Higher_Education" youtube_id="1.00:3Dm8ZnddgAfZg"/>
     </sequential>
-    <sequential display_name="Theory: Constructive Learning" url_name="Constructive_learning_Theory">
-      
-  
+    <sequential display_name="Theory: Constructive Learning" url_name="Constructive_learning_Theory">  
       <vertical display_name="Constructive learning: Theory" url_name="Constructive_learning_Theory_0">
-        
-  
         <html display_name="ICAP through vicarious learning" filename="ICAP_through_vicarious_learning" url_name="ICAP_through_vicarious_learning"/>
       </vertical>
       <vertical display_name="Vicarious learning in practice" url_name="Vicarious_learning_in_practice">
-        
-  
         <video display_name="Introduction - modelled vicarious learning" download_video="false" url_name="Introduction_modelled_vicarious_learning" youtube="1.00:AT7SQHf7hmM" youtube_id_1_0="AT7SQHf7hmM"/>
       </vertical>
       <vertical display_name="Vicarious learning in practice 2" url_name="Vicarious_learning_in_practice_2">
-        
-  
         <video display_name="Vicarious modelling - volume 2" download_video="false" url_name="Vicarious_modelling_volume_2" youtube="1.00:GpPPIe63N2I" youtube_id_1_0="GpPPIe63N2I"/>
       </vertical>
     </sequential>
   </chapter>
   <wiki display_name="Learning_Sciences_Demo" slug="edX.edX_Insider.Ongoing" url_name="Learning_Sciences_Demo"/>
-  
-
 </course>
