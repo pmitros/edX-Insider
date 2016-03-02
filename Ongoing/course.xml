@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
-<course advanced_modules="[&quot;done&quot;, &quot;recommender&quot;, &quot;poll&quot;, &quot;word_cloud&quot;]" course="regent101" display_name="Learning_Sciences_Demo" enrollment_start="&quot;2014-03-01T04:00:00+00:00&quot;" graceperiod="1 days" license="creative-commons: ver=4.0 BY SA" org="pm" start="&quot;2014-03-03T00:00:00+00:00&quot;" url_name="course">
-  <chapter display_name="Foundations: Constructive Learning" url_name="Week_2_Technology_enabled_constructive_learning">
+<course advanced_modules="[&quot;done&quot;, &quot;recommender&quot;, &quot;poll&quot;, &quot;word_cloud&quot;]" course="regent101" display_name="Learning@Scale Demo" enrollment_start="&quot;2014-03-01T04:00:00+00:00&quot;" graceperiod="1 days" license="creative-commons: ver=4.0 BY SA" org="pm" start="&quot;2014-03-03T00:00:00+00:00&quot;" url_name="course">
+  <chapter display_name="Learning@Scale Demo" url_name="LAS_Demo">
     <sequential display_name="Overview (go here first)" format="Learning Sequence" graded="true" url_name="Overview_go_here_first">
       <vertical display_name="Module overview" url_name="Module_overview">
         <html display_name="Module overview" filename="Module_overview" url_name="Module_overview"/>
@@ -10,13 +10,13 @@
         <html display_name="Expectations Overview" filename="Expectations_HTML" url_name="Expectations_HTML"/>
         <done align="right" display_name="Read expectations overview" url_name="Read_Expectations_overview" xblock-family="xblock.v1"/>
       </vertical>
-      <vertical display_name="Theory Intro" url_name="Thero_intro">
+      <!--vertical display_name="Theory Intro" url_name="Thero_intro">
         <html display_name="Introduction to the Theory" filename="Theory_Intro" url_name="Theory_Intro"/>
         <done align="right" display_name="Read ICAP overview" url_name="Read_ICAP_overview" xblock-family="xblock.v1"/>
         <discussion discussion_category="Course Overview" discussion_id="course_overview_component" discussion_target="Course Overview" display_name="Course Overview" url_name="course_overview_discussion"/>
-      </vertical>
+      </vertical-->
     </sequential>
-    <sequential display_name="Tutorial-style learning sequence: Examplar" format="Learning Sequence" graded="true" url_name="Tutorial_style_learning_sequence_Examplar">  
+    <sequential display_name="Example: Tutorial-style learning sequence" format="Learning Sequence" graded="true" url_name="Tutorial_style_learning_sequence_Examplar">  
       <vertical display_name="Introduction" url_name="Introduction_0">
         <html display_name="Intro" filename="Intro_1" url_name="Intro_1"/>
         <done align="right" display_name="Read intro part 2" url_name="Read_intro_part_2" xblock-family="xblock.v1"/>
@@ -63,9 +63,9 @@
         <discussion discussion_category="Constructive Learning" discussion_id="constructive_learning_pythagoras" discussion_target="Pythagorean Theorem" display_name="Pythagorean Theorem" url_name="pythagorean_discussion"/>
       </vertical>
     </sequential>
-    <sequential display_name="Tutorial-style learning sequences: Theory" format="Learning Sequence" graded="true" url_name="Tutorial_style_learning_sequences">  
+    <sequential display_name="Another example: Without video" format="Learning Sequence" graded="true" url_name="Tutorial_style_learning_sequences">  
+        <html display_name="Constructive learning continuum" filename="Nonmath_example" url_name="Constructive_learning_continuum_html"/>
       <vertical display_name="Constructive learning continuum" url_name="Constructive_learning_continuum">
-        <html display_name="Constructive learning continuum" filename="Constructive_learning_continuum_html" url_name="Constructive_learning_continuum_html"/>
         <problem url_name="Constructive_active_learning_example"/>
         <html display_name="Reflection" filename="Reflection" url_name="Reflection"/>
         <discussion discussion_category="Constructive Learning" discussion_id="constructive_learning_icap" discussion_target="Why ICAP question" display_name="Why ICAP question" url_name="icap_discussion"/>
@@ -79,6 +79,8 @@
       <vertical display_name="Active learning explanation" url_name="Active_learning_explanation">
         <html display_name="Active learning explanation" filename="Active_learning_explanation_0" url_name="Active_learning_explanation_0"/>
       </vertical>
+    </sequential>
+    <sequential  display_name="Use of interactives" url_name="Interactives_sequence">
       <vertical display_name="Applications to STEM" url_name="Applications_to_STEM">
         <html display_name="Applications to STEM" filename="Applications_to_STEM_0" url_name="Applications_to_STEM_0"/>
         <done align="right" display_name="Read applications to STEM" url_name="Read_applications_to_STEM" xblock-family="xblock.v1"/>
@@ -89,14 +91,16 @@
         <discussion discussion_category="Constructive Learning" discussion_id="constructive_learning_interactive" discussion_target="Interactive elements" display_name="Interactive elements discussion" url_name="interactive_discussion"/>
       </vertical>
       <vertical display_name="Conclusion_1" url_name="Analogues_1">
-        <html display_name="Conclusion: Analogs" filename="Analogs_0" url_name="Analogs_0"/>
+        <html display_name="Conclusion: Let people interact with data" filename="Interact_data" url_name="Interact_data"/>
         <done align="right" display_name="Read conclusion 1" url_name="Read_conclusion_1" xblock-family="xblock.v1"/>
         <discussion discussion_category="Constructive Learning" discussion_id="constructive_learning_conclusion" discussion_target="Concluding thoughts" display_name="Concluding thoughts" url_name="constructive_concluding_thoughts"/>
       </vertical>
     </sequential>
-  </chapter>
-  <chapter display_name="Strategy" url_name="Strategy">  
-    <sequential display_name="A few numbers...." url_name="A_few_numbers">  
+    <sequential display_name="A final example" url_name="A_final_example">  
+      <html>
+	<p> This final example is from a blended presentation on MOOC strategy to a group of a dozen people. At this point, we might be beating a dead horse, so feel free to skip it, but I thought I'd include it since it does show a couple of interesting tools, like the word cloud, and how such tools can be used to drive the in-person session.</p>
+	<p> Oh, and if you'd like to see how anything in this course works, please do feel free to look at the <a href="https://github.com/pmitros/edX-Insider/tree/pmitros/learning-at-scale">OLX on github</a>, or to import it into your own scratch space.</p>
+      </html>
       <vertical display_name="Market size" url_name="Market_size">
         <html display_name="Overview" filename="Overview" url_name="Overview"/>
         <problem url_name="Number_of_schools"/>
@@ -222,7 +226,7 @@
       <html display_name="Metacognition" filename="Metacognition" url_name="Metacognition"/>
     </sequential>
   </chapter>
-  <chapter display_name="Bonus Content" url_name="bonus_content">  
+  <!--chapter display_name="Bonus Content" url_name="bonus_content">  
     <sequential display_name="Community of Practice Videos" url_name="cop_videos">  
       <video display_name="May 21 | HarvardX Research: Future Directions" download_video="false" url_name="May_21_HarvardX_Research_Future_Directions" youtube_id="1.00:3DuXOWlmbAx9M"/>
       <video display_name="May 23 | edX Product Update" download_video="false" url_name="May_23_edX_Product_Update" youtube_id="1.00:3DZW9kCl2Vd3c"/>
@@ -255,6 +259,6 @@
         <video display_name="Vicarious modelling - volume 2" download_video="false" url_name="Vicarious_modelling_volume_2" youtube="1.00:GpPPIe63N2I" youtube_id_1_0="GpPPIe63N2I"/>
       </vertical>
     </sequential>
-  </chapter>
+  </chapter-->
   <wiki display_name="Learning_Sciences_Demo" slug="edX.edX_Insider.Ongoing" url_name="Learning_Sciences_Demo"/>
 </course>

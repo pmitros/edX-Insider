@@ -29,16 +29,17 @@
                 "type": "textbooks"
             }, 
             {
-                "name": "Discussion", 
-                "type": "discussion"
-            }, 
-            {
                 "name": "Wiki", 
                 "type": "wiki"
             }, 
             {
                 "name": "Progress", 
                 "type": "progress"
+            }, 
+            {
+                "name": "Google Group", 
+                "type": "external_link",
+		"link": "https://groups.google.com/forum/#!forum/blended-track/"
             }
         ], 
         "xml_attributes": {
