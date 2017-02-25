@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
-<course advanced_modules="[&quot;done&quot;, &quot;recommender&quot;, &quot;poll&quot;, &quot;word_cloud&quot;]" course="regent101" display_name="Learning@Scale Demo" enrollment_start="&quot;2014-03-01T04:00:00+00:00&quot;" graceperiod="1 days" license="creative-commons: ver=4.0 BY SA" org="pm" start="&quot;2014-03-03T00:00:00+00:00&quot;" url_name="course">
-  <chapter display_name="Learning@Scale Demo" url_name="LAS_Demo">
+<course advanced_modules="[&quot;done&quot;, &quot;recommender&quot;, &quot;poll&quot;, &quot;word_cloud&quot;]" course="regent101" display_name="Guadalajara 2017" enrollment_start="&quot;2014-03-01T04:00:00+00:00&quot;" graceperiod="1 days" license="creative-commons: ver=4.0 BY SA" org="pm" start="&quot;2014-03-03T00:00:00+00:00&quot;" url_name="course">
+  <chapter display_name="Guadalajara 2017 Demo" url_name="Guad_Demo">
     <sequential display_name="Overview (go here first)" format="Learning Sequence" graded="true" url_name="Overview_go_here_first">
       <vertical display_name="Module overview" url_name="Module_overview">
         <html display_name="Module overview" filename="Module_overview" url_name="Module_overview"/>
@@ -63,14 +63,14 @@
         <discussion discussion_category="Constructive Learning" discussion_id="constructive_learning_pythagoras" discussion_target="Pythagorean Theorem" display_name="Pythagorean Theorem" url_name="pythagorean_discussion"/>
       </vertical>
     </sequential>
-    <sequential display_name="Another example: Without video" format="Learning Sequence" graded="true" url_name="Tutorial_style_learning_sequences">  
+    <sequential display_name="Optional example: Without video" format="Learning Sequence" graded="true" url_name="Tutorial_style_learning_sequences">  
         <html display_name="Constructive learning continuum" filename="Nonmath_example" url_name="Constructive_learning_continuum_html"/>
       <vertical display_name="Constructive learning continuum" url_name="Constructive_learning_continuum">
         <problem url_name="Constructive_active_learning_example"/>
         <html display_name="Reflection" filename="Reflection" url_name="Reflection"/>
         <discussion discussion_category="Constructive Learning" discussion_id="constructive_learning_icap" discussion_target="Why ICAP question" display_name="Why ICAP question" url_name="icap_discussion"/>
       </vertical>
-      <vertical display_name="Constructive learning explanation" url_name="Constructive_learning_explanation">
+      <vertical display_name="Optional constructive learning explanation" url_name="Constructive_learning_explanation">
         <html display_name="Constructive/Active Learning Example" filename="Constructive_explain_html" url_name="Constructive_explain_html"/>
         <problem url_name="Active_learning_example"/>
         <html display_name="Another example" filename="Another_example_0" url_name="Another_example_0"/>
@@ -96,7 +96,7 @@
         <discussion discussion_category="Constructive Learning" discussion_id="constructive_learning_conclusion" discussion_target="Concluding thoughts" display_name="Concluding thoughts" url_name="constructive_concluding_thoughts"/>
       </vertical>
     </sequential>
-    <sequential display_name="A final example" url_name="A_final_example">  
+    <sequential display_name="Optional: A final example" url_name="A_final_example">  
       <html>
 	<p> This final example is from a blended presentation on MOOC strategy to a group of a dozen people. At this point, we might be beating a dead horse, so feel free to skip it, but I thought I'd include it since it does show a couple of interesting tools, like the word cloud, and how such tools can be used to drive the in-person session.</p>
 	<p> Oh, and if you'd like to see how anything in this course works, please do feel free to look at the <a href="https://github.com/pmitros/edX-Insider/tree/pmitros/learning-at-scale">OLX on github</a>, or to import it into your own scratch space.</p>
